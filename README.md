@@ -2,6 +2,6 @@
 
 
 <div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/d9f321f79938ffc797fae01265466b3cb46f42c4/git-logo.png">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2100aca18de101af32ed35f314d8c462dfd8dd29/git-logo-gif.gif">
 </div>
 
