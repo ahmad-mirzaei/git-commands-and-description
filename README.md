@@ -6,9 +6,12 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2100aca18de101af32ed35f314d8c462dfd8dd29/git-logo-gif.gif">
 </div>
 
+---
+
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/ae35ec9426f4bb320eefac7d94961e33acc729ff/red-line.gif">
 </div>
 
-1. `git` : 
-    <h4 align="right"> مشاهده ی دستورات گیت</h34>
+1. `git` :  مشاهده ی دستورات گیت
+
+2. `git init` : معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن
