@@ -36,7 +36,6 @@
 <p align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</p>
 <hr>
 
-
 ### `git rm --cached <file name>` : 
 <p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
 <p align="right">(From staging area to working directory)</p>
@@ -44,8 +43,13 @@
 
 ### `git commit -m <message>` :
 <p align="right">فایل های پروژه که در مرحله ی استیجینگ قرار دارند را به یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد</p>
-<p align="right">from staging area to HEAD or repositories</p>
+<p align="right">(From staging area to HEAD or repositories)</p>
 
-
+### `git commit -am <message>` or `git commit -a -m <message>` :
+<p align="right">فایل هایی که <b>از قبل</b> در پروژه ساخته شده اند و<b> تغییر پیدا می کنند</b> را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود</p>
+<p align="left"> new file --> git add <file name> / git commit -m "message" </p>
+<p align="left"> modified file --> git commit -am "message" / git commit -a -m "message" </p>
 <hr>
+
+
 <!-- <p align="right"></p> -->
