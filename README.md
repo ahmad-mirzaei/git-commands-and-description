@@ -22,7 +22,7 @@
 
 ### `git status`:   
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند</p>
-<p>(working directory | staging area | head)</p>
+<p align="right">(working directory | staging area | head)</p>
 
 ### `git status --short` : 
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه به صورت ***خلاصه شده*** که مثلا در کدام مرحله هستند</p>
@@ -33,7 +33,7 @@
 
 ### `git add <file name>` : 
 <p align="right">***فایل*** مورد نظر را به مرحله ی ***استیجینگ*** می برد</p>
-<p>staging area</p>
+<p align="right">staging area</p>
 
 
 
