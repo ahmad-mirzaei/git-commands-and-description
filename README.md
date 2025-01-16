@@ -51,5 +51,10 @@
 <p align="left"> modified file --> git commit -am "message" --> git commit -a -m "message" </p>
 <hr>
 
+### `git log` : 
+<p align="right">تغییرات و کامیت های پروژه را بر می گرداند که در خروجی می توان نام و ایمیل نویسنده، تاریخ و ساعت درج کامیت را مشاهده کرد</p>
+
+
+
 
 <!-- <p align="right"></p> -->
