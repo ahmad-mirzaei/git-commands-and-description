@@ -39,11 +39,13 @@
 
 ### `git rm --cached <file name>` : 
 <p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
-<p align="right">(ّFrom staging area to working directory)</p>
+<p align="right">(From staging area to working directory)</p>
+<hr>
 
 ### `git commit -m <message>` :
 <p align="right">فایل های پروژه که در مرحله ی استیجینگ قرار دارند را به یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد</p>
 <p align="right">from staging area to HEAD or repositories</p>
 
 
+<hr>
 <!-- <p align="right"></p> -->
