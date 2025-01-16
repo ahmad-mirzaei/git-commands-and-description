@@ -40,7 +40,7 @@
 <hr>
 
 ### `git rm --cached <file name>` : 
-<p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> می برد</p>
+<p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
 <p align="right">(ّFrom staging area to working directory)</p>
 
 
