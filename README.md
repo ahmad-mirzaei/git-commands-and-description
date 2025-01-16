@@ -24,10 +24,7 @@
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند</p>
 <p align="right">(working directory | staging area | head)</p>
 
-### `git status --short` : 
-<p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</p>
-
-### `git status -s` : 
+### `git status --short` or `git status -s`: 
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</p>
 <hr>
 
