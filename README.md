@@ -12,9 +12,11 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/ae35ec9426f4bb320eefac7d94961e33acc729ff/red-line.gif">
 </div>
 
-1. `git` :  مشاهده ی دستورات گیت
+### `git` : <p align="right">مشاهده ی دستورات گیت</p>
+<hr>
 
-2. `git init` :  معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن
+### `git init`:  <p align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</p>
+<hr>
 
-3. `git status` :  برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند  
-
+### `git status`:   <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند </p>
+<hr>
