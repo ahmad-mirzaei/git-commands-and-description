@@ -31,6 +31,12 @@
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</p>
 <hr>
 
+<div align="left">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/a638abb5f564d17dac7b7b8fb724ea9e775da541/gear-wheel.gif"><h2>git add</h2>
+</div>
+
+![gear-wheel](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/a638abb5f564d17dac7b7b8fb724ea9e775da541/gear-wheel.gif)
+
 ### `git add <file name>` : 
 <p align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>استیجینگ</b> می برد</p>
 <p align="right">staging area</p>
