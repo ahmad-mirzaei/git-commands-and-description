@@ -63,11 +63,11 @@
 ### `git log --stat` : 
 <p align="right">تغییرات پروژه را به صورت خیلی کاملتری نمایش می دهد؛ به طوری که می توان نام و ایمیل نویسنده، تاریخ و ساعت درج کامیت و همچنین تعداد فایل های تغییر یافته و تعداد خط کدهایی که به فایل تغییر یافته اضافه یا کم شده اند را نمایش می دهد</p>
 
-<h3 align="center"><mark >git log --graph : </mark></h3> 
+<h3 align="center"><mark >git log --graph</mark></h3> 
 <p align="center">اطلاعات کامیت ها را به صورت گرافیکی نمایش می دهد</p>
+<br>
 
-
-<h3 align="center"><mark >git log --graph --oneline</mark> :</h3> 
+<h3 align="center"><mark >git log --graph --oneline</mark></h3> 
 <p align="center">اطلاعات کامیت ها را به صورت گرافیکی ولی جزئی تر و خلاصه تر برمیگرداند</p>
 
 
