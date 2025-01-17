@@ -98,6 +98,8 @@
 <br>
 <hr>
 
-
+<div align="center">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/facb8d8134ca9be4c997d5ab0497281c742df536/images/stack-data-structure.png">
+</div>
 
 <!-- <p align="right"></p> -->
