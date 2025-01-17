@@ -67,8 +67,8 @@
 <p align="center">اطلاعات کامیت ها را به صورت گرافیکی نمایش می دهد</p>
 
 
-
-
+<h3 align="center"><mark >git log --graph --oneline</mark> :</h3> 
+<p align="center">اطلاعات کامیت ها را به صورت گرافیکی ولی جزئی تر و خلاصه تر برمیگرداند</p>
 
 
 
