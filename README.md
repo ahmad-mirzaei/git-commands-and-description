@@ -1,5 +1,5 @@
 <h2 align="center">
-  دستورات <a href="https://git-scm.com/doc">GIT</a> به همراه توضیحات مختصر آنها در اینجا قرار خواهند گرفت
+  دستورات <a href="https://git-scm.com/doc">گیت</a> به همراه توضیحات مختصر آنها در اینجا قرار خواهند گرفت
 <h2>
 
 <div align="center">
