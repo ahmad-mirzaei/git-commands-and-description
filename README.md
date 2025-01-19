@@ -54,6 +54,9 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
 </div>
 
+### `git rm -- *.AnExtension` for example `git rm -- *.py` :
+<p align="right">تمامی فایل هایی که <b>پسوند</b> مورد نظر را داشته باشند حذف می کند</p>
+
 ### `git rm <file name>` :
 <p align="right">فایل مورد نظر را از پروژه <b>حذف</b> می کند</p>
 
