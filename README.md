@@ -22,6 +22,10 @@
 <hr>
 <br>
 
+<div align="center">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3d81633e1a8ab8c354b2fa2a0d4e68e408f84c56/images/git-status.png">
+</div>
+
 ### `git status`:   
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند</p>
 <p align="right">(working directory | staging area | head)</p>
