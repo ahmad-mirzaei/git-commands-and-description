@@ -131,14 +131,17 @@
 <hr>
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a05680cf6bd592387e68299797be47dc6add29/images/git-blame.png">
 </div>
 
 ### `git blame <file name>` :
 <p align="right">یک زمانی میخواهیم بدانیم که کدهای یک قسمت پروژه، مثلاً در یک فایل خاص، توسط چه کسی نوشته شده اند که برای این کار، از این دستور استفاده می کنیم</p>
 <br>
 
-### `git blame <file name> -L <Lines number>` for example `git blame python.py -L 10,20`:
+### `git blame <file name> -L start-line,end-line` --> `git blame python.py -L 10,20`:
+<p align="right">زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p>
+
+### `git blame -L start-line,end-line <file-name>` :
 <p align="right">زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p>
 <br>
 <hr>
