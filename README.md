@@ -36,6 +36,10 @@
 <hr>
 <br>
 
+<div align="center" >
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png">
+</div>
+
 ### `git add <file name>` : 
 <p align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>استیجینگ</b> می برد</p>
 <p align="right">staging area</p>
