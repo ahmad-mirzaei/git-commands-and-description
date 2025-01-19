@@ -23,8 +23,9 @@
 <br>
 
 <div align="center" >
-  <img width="1000" height="200" src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/e97b067681cc62d0527a2bb16114524144055e9a/images/git-status.png">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png">
 </div>
+<!-- width="1000" height="200" -->
 
 ### `git status`:   
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند</p>
