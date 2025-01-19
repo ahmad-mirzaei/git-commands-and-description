@@ -23,7 +23,7 @@
 <br>
 
 <div align="center" >
-  <img style="width:calc(100% - 100px); height:calc(50% - 50px);" src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/e97b067681cc62d0527a2bb16114524144055e9a/images/git-status.png">
+  <img style="width:calc(100% - 100px); height:calc(20% - 20px);" src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/e97b067681cc62d0527a2bb16114524144055e9a/images/git-status.png">
 </div>
 
 ### `git status`:   
