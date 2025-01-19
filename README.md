@@ -54,11 +54,14 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
 </div>
 
+### `git rm <file name>` :
+<p align="right">فایل مورد نظر را از پروژه <b>حذف</b> می کند</p>
+
 ### `git rm -- *.AnExtension` for example `git rm -- *.py` :
 <p align="right">تمامی فایل هایی که <b>پسوند</b> مورد نظر را داشته باشند حذف می کند</p>
 
-### `git rm <file name>` :
-<p align="right">فایل مورد نظر را از پروژه <b>حذف</b> می کند</p>
+### `git rm --cached --ignore-unmatch *.js` :
+<p align="right">تمامی فایل های با پسوند مورد نظر را <b>نادیده</b> گرفته و <b>به مرحله ی ورکینگ دایرکتوری می برد</b>.</p>
 
 ### `git rm --cached <file name>` : 
 <p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
