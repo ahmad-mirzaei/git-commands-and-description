@@ -50,6 +50,9 @@
 <hr>
 <br>
 
+### `git rm <file name>` :
+<p align="right">فایل مورد نظر را از پروژه <b>حذف</b> می کند</p>
+
 ### `git rm --cached <file name>` : 
 <p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
 <p align="right">(From staging area to working directory)</p>
