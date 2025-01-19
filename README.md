@@ -56,6 +56,10 @@
 <hr>
 <br>
 
+<div align="center" >
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png">
+</div>
+
 ### `git commit -m <message>` :
 <p align="right">فایل های پروژه که در مرحله ی استیجینگ قرار دارند را به یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد</p>
 <p align="right">(From staging area to HEAD or repositories)</p>
