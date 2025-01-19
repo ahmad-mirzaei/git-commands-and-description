@@ -50,6 +50,10 @@
 <hr>
 <br>
 
+<div align="center" >
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
+</div>
+
 ### `git rm <file name>` :
 <p align="right">فایل مورد نظر را از پروژه <b>حذف</b> می کند</p>
 
