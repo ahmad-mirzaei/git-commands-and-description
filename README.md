@@ -131,7 +131,17 @@
 <hr>
 
 <div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/facb8d8134ca9be4c997d5ab0497281c742df536/images/stack-data-structure.png">
+  <img src="">
 </div>
+
+### `git blame <file name>` :
+<p align="right">یک زمانی میخواهیم بدانیم که کدهای یک قسمت پروژه، مثلاً در یک فایل خاص، توسط چه کسی نوشته شده اند که برای این کار، از این دستور استفاده می کنیم</p>
+<br>
+
+
+<hr>
+
+
+
 
 <!-- <p align="right"></p> -->
