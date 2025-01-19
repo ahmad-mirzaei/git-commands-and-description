@@ -22,7 +22,7 @@
 <hr>
 <br>
 
-<div align="center">
+<div align="center" hight="100">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3d81633e1a8ab8c354b2fa2a0d4e68e408f84c56/images/git-status.png">
 </div>
 
