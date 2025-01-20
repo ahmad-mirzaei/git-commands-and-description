@@ -97,6 +97,11 @@
 <hr>
 <br>
 
+<div align="center" >
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png">
+</div>
+
+<br>
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
