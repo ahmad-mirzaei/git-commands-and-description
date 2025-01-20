@@ -92,7 +92,8 @@
 <p align="right">برای <b>تغییر نام آخرین کامیت</b> استفاده می شود</p>
 <br>
 
-
+### `git commit --amend -am <message>` or `git commit --amend -a -m <message>` :
+<p align="right">آخرین تغییرات لوکال یا <b>working directory</b> را به آخرین کامیت اضافه می کند </p>
 <hr>
 <br>
 
