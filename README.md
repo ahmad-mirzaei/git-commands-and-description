@@ -101,6 +101,11 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png">
 </div>
 
+### `git tag` or `git tag -l`: 
+<p align="right">تگ برای <b>ورژن بندی</b> پروژه استفاده می شود که این دستور، لیست تگ های درون پروژه را نمایش می دهد و  اگر تگی وجود نداشته باشد، خروجی هم نخواهیم داشت</p>
+<br>
+
+
 <br>
 
 <div align="center" >
@@ -109,7 +114,6 @@
 
 ### `git log` : 
 <p align="right">تغییرات و کامیت های پروژه را بر می گرداند که در خروجی می توان نام و ایمیل نویسنده، تاریخ و ساعت درج کامیت را مشاهده کرد</p>
-<br>
 <br>
 
 ### `git log --oneline` :
