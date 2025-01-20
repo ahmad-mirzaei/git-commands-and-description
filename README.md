@@ -85,8 +85,17 @@
 <p align="right">فایل هایی که <b>از قبل</b> در پروژه ساخته شده اند و<b> تغییر پیدا می کنند</b> را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود</p>
 <p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
 <p align="left"> modified file --> git commit -am "message" --> git commit -a -m "message" </p>
+
+<br>
+
+### `git commit --amend -m <message>` :
+<p align="right">برای <b>تغییر نام آخرین کامیت</b> استفاده می شود</p>
+<br>
+
+
 <hr>
 <br>
+
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
