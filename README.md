@@ -110,8 +110,8 @@
 <br>
 
 <p align="center">New updates coming soon...</p>
-
 <br>
+<hr>
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
