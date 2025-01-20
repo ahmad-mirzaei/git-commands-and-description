@@ -109,7 +109,7 @@
 <p align="right">اگر یک ورژن یا نام بخصوصی روبروی دستور قرار دهیم آن را <b>برای آخرین کامیت</b> در نظر می گیرد</p>
 <br>
 
-<p alighn="center">New updates coming soon...</p>
+<p align="center">New updates coming soon...</p>
 
 <br>
 
@@ -178,6 +178,6 @@
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/36c973fd4e0ed02cf70a5832c59b4c60d132334b/images/loading.gif">
 </div>
-<p alighn="center">New updates coming soon...</p>
+<p align="center">New updates coming soon...</p>
 
 <!-- <p align="right"></p> -->
