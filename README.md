@@ -213,11 +213,17 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/42834c805f3cb89302e3e0d94652766b4d0a6087/images/git-show.png">
 </div>
 
-### `` :
-<p align="right"></p>
+### `git show` :
+<p align="right"><b>تمامی تغییرات در آخرین کامیت را برمی گرداند</b>؛ اینکه چند خط کد اضافه یا کم شده اند یا توسط چه کسی این تغییرات اعمال شده است</p>
+<br>
+
+### `git show <commit id>` :
+<p align="right">تغییرات کامیتی که id وارد شده مربوط به آن می باشد را بر می گرداند که برای مشاهده ی این id باید از دستور git log --oneline استفاده کرد</p>
+<br>
+
 <br>
 <hr>
 
