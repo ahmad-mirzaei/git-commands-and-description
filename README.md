@@ -63,7 +63,7 @@
 <br>
 
 ### `git rm --cached --ignore-unmatch *.js` :
-<p align="right">تمامی فایل های با پسوند مورد نظر را <b>نادیده</b> گرفته و <b>به مرحله ی ورکینگ دایرکتوری می برد</b>.</p>
+<p align="right">تمامی فایل های با پسوند مورد نظر را <b>نادیده</b> گرفته و <b>به مرحله ی ورکینگ دایرکتوری می برد</b></p>
 <br>
 
 ### `git rm --cached <file name>` : 
@@ -111,8 +111,14 @@
 
 ### `git tag 3.13.0 <commit id>` example `git tag v5.2.0 6d2ef95` :
 <p align="right">با قرار دادن <b>ورژن یا نام برای تگ</b> بعلاوه ی <b>کد هش کامیت مورد نظر</b> می توانیم برای کامیت هایمان تگ بگذاریم</p>
+<br>
 
-<p align="center">New updates coming soon...</p>
+### `git show <tag name>` example `git show 3.13.2` :
+<p align="right">برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم که در مباحث بعدی به کامند show پرداخته خواهد شد</p>
+<br>
+
+
+
 <hr>
 <br>
 
