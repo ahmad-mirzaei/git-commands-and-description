@@ -125,7 +125,7 @@
 <br>
 
 ### `git show <tag name>` example `git show 3.13.2` :
-<p align="right">برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم که در مباحث بعدی به کامند show پرداخته خواهد شد</p>
+<p align="right">برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم</p>
 <br>
 
 ### `git tag -d <tag name>` example `git tag -d 3.12.2` :
@@ -224,6 +224,8 @@
 <p align="right">تغییرات کامیتی که id وارد شده مربوط به آن می باشد را بر می گرداند که برای مشاهده ی این id باید از دستور git log --oneline استفاده کرد</p>
 <br>
 
+### `git show <tag name>` example `git show 3.13.2` :
+<p align="right">برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم</p>
 <br>
 <hr>
 
