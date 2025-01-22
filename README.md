@@ -6,7 +6,7 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2100aca18de101af32ed35f314d8c462dfd8dd29/git-logo-gif.gif">
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/ae35ec9426f4bb320eefac7d94961e33acc729ff/red-line.gif">
@@ -14,13 +14,17 @@
 
 ### `git` : 
 <p align="right">مشاهده ی دستورات گیت</p>
-<hr>
 <br>
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 ### `git init`:  
 <p align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</p>
-<hr>
 <br>
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png">
@@ -33,8 +37,10 @@
 
 ### `git status --short` or `git status -s`: 
 <p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</p>
-<hr>
 <br>
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png">
@@ -47,8 +53,10 @@
 
 ### `git add .` : 
 <p align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</p>
-<hr>
 <br>
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
@@ -69,8 +77,10 @@
 ### `git rm --cached <file name>` : 
 <p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
 <p align="right">(From staging area to working directory)</p>
-<hr>
 <br>
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png">
@@ -85,7 +95,6 @@
 <p align="right">فایل هایی که <b>از قبل</b> در پروژه ساخته شده اند و<b> تغییر پیدا می کنند</b> را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود</p>
 <p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
 <p align="left"> modified file --> git commit -am "message" --> git commit -a -m "message" </p>
-
 <br>
 
 ### `git commit --amend -m <message>` :
@@ -94,8 +103,10 @@
 
 ### `git commit --amend -am <message>` or `git commit --amend -a -m <message>` :
 <p align="right">آخرین تغییرات لوکال یا <b>working directory</b> را به آخرین کامیت اضافه می کند </p>
-<hr>
 <br>
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png">
@@ -131,9 +142,9 @@
 و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد
 </p>
 <br>
-
 <hr>
-<br>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
@@ -176,6 +187,8 @@
 <br>
 <hr>
 
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a05680cf6bd592387e68299797be47dc6add29/images/git-blame.png">
 </div>
@@ -196,6 +209,14 @@
 <p align="right">زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p>
 <br>
 <hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+### `` :
+<p align="right"></p>
+
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/36c973fd4e0ed02cf70a5832c59b4c60d132334b/images/loading.gif">
