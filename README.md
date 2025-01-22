@@ -105,9 +105,12 @@
 <p align="right">تگ برای <b>ورژن بندی</b> پروژه استفاده می شود که این دستور، لیست تگ های درون پروژه را نمایش می دهد و  اگر تگی وجود نداشته باشد، خروجی هم نخواهیم داشت</p>
 <br>
 
-### `git tag <tag name>` for example `git tag v5.2.0`: 
+### `git tag <tag name>` for example `git tag 3.12.0`: 
 <p align="right">اگر یک ورژن یا نام بخصوصی روبروی دستور قرار دهیم آن را <b>برای آخرین کامیت</b> در نظر می گیرد</p>
 <br>
+
+### `git tag 3.13.0 <commit id>` example `git tag v5.2.0 6d2ef95` :
+<p align="center">با قرار دادن <b>ورژن یا نام برای تگ</b> بعلاوه ی <b>کد هش کامیت مورد نظر</b> می توانیم برای کامیت هایمان تگ بگذاریم</p>
 
 <p align="center">New updates coming soon...</p>
 <hr>
