@@ -252,7 +252,7 @@
 <p align="right">لیستی از تمام تنظیمات پیکر بندی را که در حال حاضر روی نسخه ی نصبی گیت شما نصب است را نمایش می دهد؛ مثل تنظیمات محلی، تنظیمات سراسری و تنظیمات سیستم</p>
 <br>
 
-### `git config --local alias.<name>  <command-name>` example `git config --local alias.com  commit` :
+### `git config --local alias.<name>  <command-name>` -> `git config --local alias.com  commit` :
 <p align="right">با استفاده از این دستور می توانیم برای دستورات گیت <b>درون لوکال</b> خودمان، اسامی کوتاه تر و خلاصه انتخاب کنیم که در این دستور، کامند commit را به com خلاصه کرده ایم</p>
 <br>
 
