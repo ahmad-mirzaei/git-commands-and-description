@@ -261,7 +261,11 @@
 <br>
 
 ### `git config --global user.name <your-name>` :
-<p align="right">تنظیم نام کاربری برای تمامی پروژه ها</p>
+<p align="right">تنظیم نام کاربری برای <b>تمامی پروژه ها</b></p>
+<br>
+
+### `git config user.name <your-name>` :
+<p align="right">تنظیم نام کاربری برای <b>یک پروژه</b></p>
 <br>
 
 <hr>
