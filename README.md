@@ -264,8 +264,16 @@
 <p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>تمامی پروژه ها</b></p>
 <br>
 
+### `git config --global user.name` or `git config --global user.email` :
+<p align="right">مشاهده ی نام یا ایمیل کاربری که برای تمام پروژه ها انتخاب کرده ایم</p>
+<br>
+
 ### `git config user.name <your-name>` and `git config user.email <your-email>` :
 <p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>یک پروژه</b></p>
+<br>
+
+### `git config user.name` or `git config user.email` :
+<p align="right">مشاهده ی نام یا ایمیل کاربری که برای یک پروژه انتخاب کرده ایم</p>
 <br>
 
 <hr>
