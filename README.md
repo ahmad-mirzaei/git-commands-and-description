@@ -245,6 +245,19 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a93a088f87ae7106cffd3f9f45214ae88ec6fd/images/git-config.png">
+</div>
+
+### `git config --list` :
+<p align="right">لیستی از تمام تنظیمات پیکر بندی را که در حال حاضر روی نسخه ی نصبی گیت شما نصب است را نمایش می دهد؛ مثل تنظیمات محلی، تنظیمات سراسری و تنظیمات سیستم</p>
+<br>
+
+
+<hr>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/36c973fd4e0ed02cf70a5832c59b4c60d132334b/images/loading.gif">
 </div>
 <p align="center">New updates coming soon...</p>
