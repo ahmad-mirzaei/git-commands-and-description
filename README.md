@@ -260,12 +260,12 @@
 <p align="right">اگر بخواهیم از یک نام مستعار در <b>تمامی پروژه هایمان</b> استفاده کنیم به جای کلمه ی local از کلمه ی global استفاده میکنیم</p>
 <br>
 
-### `git config --global user.name <your-name>` :
-<p align="right">تنظیم نام کاربری برای <b>تمامی پروژه ها</b></p>
+### `git config --global user.name <your-name>` and `git config --global user.email <your-email>` :
+<p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>تمامی پروژه ها</b></p>
 <br>
 
-### `git config user.name <your-name>` :
-<p align="right">تنظیم نام کاربری برای <b>یک پروژه</b></p>
+### `git config user.name <your-name>` and `git config user.email <your-email>` :
+<p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>یک پروژه</b></p>
 <br>
 
 <hr>
