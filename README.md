@@ -295,8 +295,8 @@
 <p align="right">سوئیچ کردن یا جابه جا شدن از یه برنچ به برنچ دیگر</p>
 <br>
 
-### `` :
-<p align="right"></p>
+### `git switch -c <new-branch-name>` :
+<p align="right">ساخت برنچ جدید و سوئیچ شدن به آن برنچ در لحظه</p>
 <br>
 
 ### `` :
