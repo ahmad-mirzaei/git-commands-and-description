@@ -291,6 +291,10 @@
 <p align="right">لیست <b>تمام برنچ ها را اعم از لوکال و ریموت</b> بر می گرداند</p>
 <br>
 
+### `git branch origin --delete <branch-name>` :
+<p align="right">برای حذف برنچ ریموت استفاده می شود</p>
+<br>
+
 ### `git branch <new-branch-name>` :
 <p align="right">از این دستور برای <b>ایجاد</b> یک برنچ یا شاخه ی جدید استفاده میکنیم</p>
 <br>
