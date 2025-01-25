@@ -341,6 +341,16 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/b2073a1db16d850b1ba9047c91852903b9134911/images/git-stash.png">
+</div>
+
+### `git stash` or `git stash save` :
+<p align="right">یک زمانی نیاز است که در برنچ فرعی یا اصلی یک سری تغییراتی ایجاد کنیم که بخواهیم بعدا آن تغییرات را به پروژه اضافه یا اعمال کنیم؛ برای این کار از این دستور استفاده می کنیم که شبیه به یک باکس یا آرایه یا  لیست، تغییرات را درون خود <b>نگه داری</b> می کند تا زمانی که بخواهیم از آنها استفاده کنیم</p>
+<br>
+
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/36c973fd4e0ed02cf70a5832c59b4c60d132334b/images/loading.gif">
 </div>
 <p align="center">New updates coming soon...</p>
