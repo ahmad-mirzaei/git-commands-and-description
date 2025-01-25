@@ -56,7 +56,7 @@
 <br>
 
 ### `git add -A` : 
-<p align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را مثل دستور <b>. git add</b> به مرحله ی استیجینگ می برد</p>
+<p align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را مثل دستور <b>( .  git add)</b> به مرحله ی استیجینگ می برد</p>
 <br>
 
 ### `git add *.AnExtension` example `git add *.css` : 
