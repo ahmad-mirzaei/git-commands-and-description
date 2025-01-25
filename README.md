@@ -376,6 +376,10 @@
 <p align="right">برای <b>حذف</b> استش مورد نظر استفاده می شود</p>
 <br>
 
+### `git stash clear` :
+<p align="right">حذف <b>تمامی</b> استش ها به صورت یکجا</p>
+<br>
+
 ### `` :
 <p align="right"></p>
 <br>
