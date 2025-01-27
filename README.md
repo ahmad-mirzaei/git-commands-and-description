@@ -8,10 +8,6 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <!-- git logo -->
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/65044283c3ddab2fddcd1c6e9bd20c283209841c/images/git-commands.gif">
-</div>
-
 <!-- <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2100aca18de101af32ed35f314d8c462dfd8dd29/git-logo-gif.gif">
 </div>
@@ -26,6 +22,10 @@
 <br> -->
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/528ee1cf6aa679eb38bdaa35db609b740ed7445f/images/git-init.png">
+</div>
 
 <!-- git init -->
 <table align="center">
