@@ -421,7 +421,7 @@
             <td align="right">مشاهده یا مقایسه ی تغییرات دو کامیت با یک دیگر</td>
         </tr> 
         <tr>
-            <td align="center"><code>git diff 28344dc..85d9a5b [file-name]</code></td>
+            <td align="left"><code>git diff 28344dc..85d9a5b [file-name]</code></td>
             <td align="right">مشاهده یا مقایسه ی دو کامیت در یک فایل</td>
         </tr> 
     </tbody>
