@@ -57,22 +57,22 @@
 <table align="center">
     <thead>
         <tr>
-            <th>دستورات</th>
             <th>توضیحات</th>
+            <th>دستورات</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code>git status</code></td>
             <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله (ورکینگ دایرکتوری - استیجینگ - مخزن یا هد) هستند</td>
+            <td align="left"><code>git status</code></td>
         </tr>
         <tr>
-            <td align="left"><code>git status --short</code></td>
             <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
+            <td align="left"><code>git status --short</code></td>
         </tr>
         <tr>
-            <td align="left"><code>git status -s</code></td>
             <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
+            <td align="left"><code>git status -s</code></td>
         </tr>
     </tbody>
 </table>
