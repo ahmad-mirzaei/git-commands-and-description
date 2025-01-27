@@ -428,10 +428,6 @@
             <td align="left"><code>git diff [first-branch] [second-branch]</code> or <code>git diff [first-branch]..[second-branch]</code></td>
             <td align="right">مشاهده یا مقایسه ی تغییرات دو برنچ <b>قبل از مرج شدن</b> با هم</td>
         </tr>
-        <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
-        </tr> 
     </tbody>
 </table>
 <br>
