@@ -37,16 +37,12 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code>Download And Install</code></td>
-            <td align="center">https://git-scm.com/</td>
-        </tr>
-        <tr>
             <td align="left"><code>git</code></td>
             <td align="right">مشاهده ی دستورات گیت</td>
         </tr>
         <tr>
             <td align="left"><code>git init</code></td>
-            <td align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</td>
+            <td align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن؛ که پس از اجرای دستور یک ریپوزیتوری یا مخزن خالی در لوکال شما ایجاد می شود</td>
         </tr>
     </tbody>
 </table>
