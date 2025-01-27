@@ -424,6 +424,10 @@
             <td align="left"><code>git diff 28344dc..85d9a5b [file-name]</code></td>
             <td align="right">مشاهده یا مقایسه ی دو کامیت در یک فایل</td>
         </tr> 
+        <tr>
+            <td align="left"><code>git diff [first-branch] [second-branch]</code> or <code>git diff [first-branch]..[second-branch]</code></td>
+            <td align="right">مشاهده یا مقایسه ی تغییرات دو برنچ <code>قبل از مرج شدن</code> با هم</td>
+        </tr> 
     </tbody>
 </table>
 
