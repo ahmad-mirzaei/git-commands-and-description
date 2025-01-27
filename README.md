@@ -417,7 +417,7 @@
             <td align="right">مقایسه ی آخرین کامیت با ورکینگ دایرکتوری</td>
         </tr>
         <tr>
-            <td align="center"><h3><code>git diff first-hash-commit second-hash-commit or git diff 28344dc 85d9a5b or git diff 28344dc..85d9a5b</code></h3></td>
+            <td align="center"><h3><code>git diff first-hash-commit second-hash-commit -> git diff 28344dc 85d9a5b or git diff 28344dc..85d9a5b</code></h3></td>
             <td align="right">مشاهده یا مقایسه ی تغییرات دو کامیت با یک دیگر</td>
         </tr> 
     </tbody>
