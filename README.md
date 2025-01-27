@@ -409,6 +409,10 @@
             <td align="right">مشاهده یا مقایسه ی تغییرات ورکینگ دایرکتوری با استیجینگ</td>
         </tr>
         <tr>
+            <td align="left"><code>git diff --name-only [branch-name]</code></td>
+            <td align="right">مشاهده ی فایل هایی که پس از یک کامیت خاص، تغییر کرده اند</td>
+        </tr>
+        <tr>
             <td align="left"><code>git diff --staged</code></td>
             <td align="right"> مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی استیجینگ</td>
         </tr>
