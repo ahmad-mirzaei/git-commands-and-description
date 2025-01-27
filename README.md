@@ -393,6 +393,16 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/eb735e7ac6b7f4d16fab33342ca3296072d8f8cc/images/git-diff.png">
+</div>
+
+| دستور | توضیحات |
+|  |  |
+
+<br>
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/36c973fd4e0ed02cf70a5832c59b4c60d132334b/images/loading.gif">
 </div>
 <p align="center">New updates coming soon...</p>
