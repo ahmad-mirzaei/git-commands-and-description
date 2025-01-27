@@ -37,7 +37,7 @@
     <tbody>
         <tr>
             <td align="left">https://git-scm.com/</td>
-            <td align="left"><code>Download And Install Git</code></td>
+            <td align="left"><code>Download And Install</code></td>
         </tr>
         <tr>
             <td align="right">مشاهده ی دستورات گیت</td>
