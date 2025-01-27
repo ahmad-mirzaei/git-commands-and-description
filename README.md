@@ -36,7 +36,7 @@
     </thead>
     <tbody>
         <tr>
-            <td align="right">https://git-scm.com/</td>
+            <td align="left">https://git-scm.com/</td>
             <td align="left"><code>Download And Install Git</code></td>
         </tr>
         <tr>
