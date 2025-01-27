@@ -1,46 +1,97 @@
+<!-- description -->
 <h2 align="center">
   دستورات <a href="https://git-scm.com/doc">گیت</a> به همراه توضیحات مختصر آنها در اینجا قرار خواهند گرفت
 <h2>
+<br>
 
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+<!-- git logo -->
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/65044283c3ddab2fddcd1c6e9bd20c283209841c/images/git-commands.gif">
 </div>
 
 <!-- <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2100aca18de101af32ed35f314d8c462dfd8dd29/git-logo-gif.gif">
-</div> -->
+</div>
+<br> -->
 
-<br>
+<!-- ---------------------------------------------------------------------------------------------------------- -->
 
+<!-- read-line -->
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/ae35ec9426f4bb320eefac7d94961e33acc729ff/red-line.gif">
 </div>
+<br>
 
-### `git` : 
-<p align="right">مشاهده ی دستورات گیت</p>
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+
+<!-- git -->
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code>git</code></td>
+            <td align="right">مشاهده ی دستورات گیت</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
-### `git init`:  
-<p align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</p>
+<!-- git init -->
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code>git init</code></td>
+            <td align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
-
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
+<!-- git status -->
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png">
 </div>
 
-### `git status`:   
-<p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله هستند</p>
-<p align="right">(working directory | staging area | head)</p>
-<br>
-
-### `git status --short` or `git status -s`: 
-<p align="right">برای فهمیدن موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</p>
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code>git status</code></td>
+            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله (ورکینگ دایرکتوری - استیجینگ - مخزن یا هد) هستند</td>
+        </tr>
+        <tr>
+            <td align="left"><code>git status --short</code></td>
+            <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
+        </tr>
+        <tr>
+            <td align="left"><code>git status -s</code></td>
+            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
 
