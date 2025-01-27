@@ -406,11 +406,15 @@
     <tbody>
         <tr>
             <td align="center"><h3><code>git diff</code></h3></td>
-            <td align="right">مشاهده یا مقایسه ی تغییرات ورکینگ دایرکتوری با استیجینگ استفاده می شود</td>
+            <td align="right">مشاهده یا مقایسه ی تغییرات ورکینگ دایرکتوری با استیجینگ</td>
         </tr>
         <tr>
             <td align="center"><h3><code>git diff --staged</code></h3></td>
             <td align="right"> مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی استیجینگ</td>
+        </tr>
+        <tr>
+            <td align="center"><h3><code>git diff head or (HEAD)</code></h3></td>
+            <td align="right">مقایسه ی آخرین کامیت با ورکینگ دایرکتوری</td>
         </tr>
     </tbody>
 </table>
@@ -424,3 +428,10 @@
 <p align="center">New updates coming soon...</p>
 
 <!-- <p align="right"></p> -->
+
+<!-- 
+<tr>
+    <td align="center"><h3><code></code></h3></td>
+    <td align="right"></td>
+</tr> 
+-->
