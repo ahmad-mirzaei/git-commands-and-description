@@ -426,7 +426,7 @@
         </tr> 
         <tr>
             <td align="left"><code>git diff [first-branch] [second-branch]</code> or <code>git diff [first-branch]..[second-branch]</code></td>
-            <td align="right">مشاهده یا مقایسه ی تغییرات دو برنچ <code>قبل از مرج شدن</code> با هم</td>
+            <td align="right">مشاهده یا مقایسه ی تغییرات دو برنچ <b>قبل از مرج شدن</b> با هم</td>
         </tr> 
     </tbody>
 </table>
