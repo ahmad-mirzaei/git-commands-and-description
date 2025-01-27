@@ -405,20 +405,24 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center"><h3><code>git diff</code></h3></td>
+            <td align="left"><code>git diff</code></td>
             <td align="right">مشاهده یا مقایسه ی تغییرات ورکینگ دایرکتوری با استیجینگ</td>
         </tr>
         <tr>
-            <td align="center"><h3><code>git diff --staged</code></h3></td>
+            <td align="left"><code>git diff --staged</code></td>
             <td align="right"> مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی استیجینگ</td>
         </tr>
         <tr>
-            <td align="center"><h3><code>git diff head or (HEAD)</code></h3></td>
+            <td align="left"><code>git diff head or [HEAD]</code></td>
             <td align="right">مقایسه ی آخرین کامیت با ورکینگ دایرکتوری</td>
         </tr>
         <tr>
-            <td align="center"><h3><code>git diff first-hash-commit second-hash-commit -> git diff 28344dc 85d9a5b or git diff 28344dc..85d9a5b</code></h3></td>
+            <td align="left"><code>git diff [first-hash-commit] [second-hash-commit] -> git diff 28344dc 85d9a5b or git diff 28344dc..85d9a5b</code></td>
             <td align="right">مشاهده یا مقایسه ی تغییرات دو کامیت با یک دیگر</td>
+        </tr> 
+        <tr>
+            <td align="center"><code>git diff 28344dc..85d9a5b [file-name]</code></td>
+            <td align="right">مشاهده یا مقایسه ی دو کامیت در یک فایل</td>
         </tr> 
     </tbody>
 </table>
@@ -434,8 +438,8 @@
 <!-- <p align="right"></p> -->
 
 <!-- 
-<tr>
-    <td align="center"><h3><code></code></h3></td>
-    <td align="right"></td>
-</tr> 
+        <tr>
+            <td align="center"><code></code></td>
+            <td align="right"></td>
+        </tr> 
 -->
