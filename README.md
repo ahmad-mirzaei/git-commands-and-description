@@ -24,7 +24,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/528ee1cf6aa679eb38bdaa35db609b740ed7445f/images/git-init.png">
+  <img src="">
 </div>
 
 <!-- git init -->
