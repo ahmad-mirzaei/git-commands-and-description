@@ -395,12 +395,13 @@
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/eb735e7ac6b7f4d16fab33342ca3296072d8f8cc/images/git-diff.png">
 </div>
+<br>
 
 | دستور | توضیحات |
 | ---------- | -------------------- |
 |  |  |
 
-<br>
+
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
