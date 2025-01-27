@@ -405,12 +405,12 @@
     </thead>
     <tbody>
         <tr>
-            <td><h3><code>git diff</code></h3></td>
-            <td>مشاهده یا مقایسه ی تغییرات <b>working directory</b> با <b>staging area</b> استفاده می شود</td>
+            <td align="center"><h3><code>git diff</code></h3></td>
+            <td align="right">مشاهده یا مقایسه ی تغییرات <b>working directory</b> با <b>staging area</b> استفاده می شود</td>
         </tr>
         <tr>
-            <td><h3><code>git diff --staged</code></h3></td>
-            <td>مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی <b>staging area</b></td>
+            <td align="center"><h3><code>git diff --staged</code></h3></td>
+            <td align="right">مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی <b>staging area</b></td>
         </tr>
     </tbody>
 </table>
