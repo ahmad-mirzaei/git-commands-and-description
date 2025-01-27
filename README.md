@@ -85,25 +85,37 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
+<!-- git add  -->
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png">
 </div>
 
-### `git add <file name>` : 
-<p align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>استیجینگ</b> می برد</p>
-<p align="right">staging area</p>
-<br>
-
-### `git add .` : 
-<p align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</p>
-<br>
-
-### `git add -A` : 
-<p align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را مثل دستور <b>(   .    git add)</b> به مرحله ی استیجینگ می برد</p>
-<br>
-
-### `git add *.AnExtension` example `git add *.css` : 
-<p align="right">تمامی فایلهایی که پسوند مورد نظر را  داشته باشند به مرحله ی استیجینگ می برد که در اینجا گفته ایم تمامی فایلهای با پسوند css را به استیج ببر</p>
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code>git add [file-name]</code></td>
+            <td align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>استیجینگ</b> می برد</td>
+        </tr>
+        <tr>
+            <td align="left"><code>git add .</code></td>
+            <td align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</td>
+        </tr>
+        <tr>
+            <td align="left"><code>git add -A</code></td>
+            <td align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را مثل دستور <b>(   .    git add)</b> به مرحله ی استیجینگ می برد</td>
+        </tr>
+        <tr>
+            <td align="left"><code>git add *.AnExtension</code> -> <code>git add *.css</code></td>
+            <td align="right">تمامی فایلهایی که پسوند مورد نظر را  داشته باشند به مرحله ی استیجینگ می برد که در اینجا گفته ایم تمامی فایلهای با پسوند css را به استیج ببر</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
 
