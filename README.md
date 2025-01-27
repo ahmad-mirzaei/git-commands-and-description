@@ -30,18 +30,18 @@
 <table align="center">
     <thead>
         <tr>
-            <th>دستورات</th>
             <th>توضیحات</th>
+            <th>دستورات</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code>git</code></td>
             <td align="right">مشاهده ی دستورات گیت</td>
+            <td align="left"><code>git</code></td>
         </tr>
         <tr>
-            <td align="left"><code>git init</code></td>
             <td align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</td>
+            <td align="left"><code>git init</code></td>
         </tr>
     </tbody>
 </table>
