@@ -396,21 +396,21 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/eb735e7ac6b7f4d16fab33342ca3296072d8f8cc/images/git-diff.png">
 </div>
 
-<table>
+<table align="center">
     <thead>
         <tr>
-            <th>توضیحات</th>
             <th>دستورات</th>
+            <th>توضیحات</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>مشاهده یا مقایسه ی تغییرات <b>working directory</b> با <b>staging area</b> استفاده می شود</td>
             <td><h3><code>git diff</code></h3></td>
+            <td>مشاهده یا مقایسه ی تغییرات <b>working directory</b> با <b>staging area</b> استفاده می شود</td>
         </tr>
         <tr>
-            <td></td>
-            <td><h3><code></code></h3></td>
+            <td><h3><code>git diff --staged</code></h3></td>
+            <td>مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی <b>staging area</b></td>
         </tr>
     </tbody>
 </table>
