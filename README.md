@@ -30,22 +30,22 @@
 <table align="center">
     <thead>
         <tr>
-            <th>توضیحات</th>
             <th>دستورات</th>
+            <th>توضیحات</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">https://git-scm.com/</td>
             <td align="left"><code>Download And Install</code></td>
+            <td align="center">https://git-scm.com/</td>
         </tr>
         <tr>
-            <td align="right">مشاهده ی دستورات گیت</td>
             <td align="left"><code>git</code></td>
+            <td align="right">مشاهده ی دستورات گیت</td>
         </tr>
         <tr>
-            <td align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</td>
             <td align="left"><code>git init</code></td>
+            <td align="right">معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن</td>
         </tr>
     </tbody>
 </table>
@@ -61,22 +61,22 @@
 <table align="center">
     <thead>
         <tr>
-            <th>توضیحات</th>
             <th>دستورات</th>
+            <th>توضیحات</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله (ورکینگ دایرکتوری - استیجینگ - مخزن یا هد) هستند</td>
             <td align="left"><code>git status</code></td>
+            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله (ورکینگ دایرکتوری - استیجینگ - مخزن یا هد) هستند</td>
         </tr>
         <tr>
-            <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
             <td align="left"><code>git status --short</code></td>
+            <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
         </tr>
         <tr>
-            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
             <td align="left"><code>git status -s</code></td>
+            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
         </tr>
     </tbody>
 </table>
