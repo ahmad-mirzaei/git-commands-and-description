@@ -194,32 +194,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png" alt="git-tag">
 </div>
 
-### `git tag <tag name>` for example `git tag 3.12.0`: 
-<p align="right">اگر یک ورژن یا نام بخصوصی روبروی دستور قرار دهیم آن را <b>برای آخرین کامیت</b> در نظر می گیرد</p>
-<br>
-
-### `git tag 3.13.0 <commit-hash>` example `git tag v5.2.0 6d2ef95` :
-<p align="right">با قرار دادن <b>ورژن یا نام برای تگ</b> بعلاوه ی <b>کد هش کامیت مورد نظر</b> می توانیم برای کامیت هایمان تگ بگذاریم</p>
-<br>
-
-### `git show <tag name>` example `git show 3.13.2` :
-<p align="right">برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم</p>
-<br>
-
-### `git tag -d <tag name>` example `git tag -d 3.12.2` :
-<p align="right">برای <b>حذف تگ</b> از این دستور استفاده می کنیم</p>
-<br>
-
-### `git tag -f <tag name> <commit-hash>` example `git tag -f v2.1.1 6d2ef95` :
-<p align="right">یک زمانی یک تگی را اشتباهی به یک کامیت دیگر منتسب میکنیم که برای رفع این اشکال از این دستور استفاده میکنیم که می آید <b>نام تگ را از روی کامیت قبلی برداشته و روی کامیت جدید می گذارد</b></p>
-<br>
-
-### `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` :
-<p align="right">برای سرچ در تگ ها استفاده می کنیم که در مورد اول گفته ایم تگهایی که ابتدای آنها با فلان مشخصات شروع می شود و بعد از آن هر چیزی باشد
-در مورد دوم گفته ایم تگ هایی را بیاور که آخر آنها صفر داشته باشد و قبل از آن هر چیزی باشد
-و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد
-</p>
-
 <table align="center">
     <thead>
         <tr>
@@ -231,23 +205,36 @@
         <tr>
             <td align="left"><code>git tag</code> or <code>git tag -l</code></td>
             <td align="right"><p>تگ برای <b>ورژن بندی</b> پروژه استفاده می شود که این دستور، لیست تگ های درون پروژه را نمایش می دهد و اگر تگی وجود نداشته باشد، خروجی هم نخواهیم داشت</p>
-</td>
+        </td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git tag [tag name]</code> -> <code>git tag 3.12.0</code></td>
+            <td align="right"><p>اگر یک ورژن یا نام بخصوصی روبروی دستور قرار دهیم آن را <b>برای آخرین کامیت</b> در نظر می گیرد</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git tag 3.13.0 [commit-hash]</code> -> <code>git tag v5.2.0 6d2ef95</code></td>
+            <td align="right"><p>با قرار دادن <b>ورژن یا نام برای تگ</b> بعلاوه ی <b>کد هش کامیت مورد نظر</b> می توانیم برای کامیت هایمان تگ بگذاریم</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git show [tag name]</code> -> <code>git show 3.13.2</code></td>
+            <td align="right"><p>برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git tag -d [tag name]</code> -> <code>git tag -d 3.12.2</code></td>
+            <td align="right"><p>برای <b>حذف تگ</b> از این دستور استفاده می کنیم</p></td>
+        </tr>
+        <tr>
+            <td align="left"><code>git tag -f [tag name] [commit-hash]</code> -> <code>git tag -f v2.1.1 6d2ef95</code></td>
+            <td align="right"><p>یک زمانی یک تگی را اشتباهی به یک کامیت دیگر منتسب میکنیم که برای رفع این اشکال از این دستور استفاده میکنیم که می آید <b>نام تگ را از روی کامیت قبلی برداشته و روی کامیت جدید می گذارد</b></p></td>
+        </tr>        
+        <tr>
+            <td align="left"><code>git tag -l '13.*' - git tag -l '*.0' - git tag -l '*.1.*'</code></td>
+            <td align="right">
+                <p>برای سرچ در تگ ها استفاده می کنیم که در مورد اول گفته ایم تگهایی که ابتدای آنها با فلان مشخصات شروع می شود و بعد از آن هر چیزی باشد
+                در مورد دوم گفته ایم تگ هایی را بیاور که آخر آنها صفر داشته باشد و قبل از آن هر چیزی باشد
+                و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد
+                </p>
+            </td>
         </tr>
     </tbody>
 </table>
