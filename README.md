@@ -119,6 +119,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
+<!-- git rm -->
 <div align="center" >
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png" alt="git-rm">
 </div>
@@ -146,6 +147,14 @@
         <tr>
             <td align="left"><code>git rm --cached [file name]</code></td>
             <td align="right">[working directory] فایلی که به استیج رفته را می برد به مرحله ی </td>
+        </tr>
+        <tr>
+            <td align="left"><code>git rm -rf --cached .</code></td>
+            <td align="right">
+                <p>
+                    اگر مدتی پس از ایجاد پروژه بخواهیم فایلهایی را در <b>.gitignore</b> قرار دهیم و این کار انجام نشود، به این دلیل است که آن فایل ها در حال حاضر در مخزن یا ریپوزیتوری هستند و باید ابتدا آنها را با این دستور به <b>working directory</b> ببریم و سپس دوباره به <b>staging area</b> ببریم
+                </p>
+            </td>
         </tr>
     </tbody>
 </table>
