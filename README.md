@@ -172,7 +172,7 @@
         <tr>
             <td align="left"><code>git commit -am [message]</code> or <code>git commit -a -m [message]</code></td>
             <td align="right">فایل هایی که از قبل در پروژه ساخته شده اند و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود
-                <p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
+                <br><p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
                 <p align="left"> modified file --> git commit -am "message" --> git commit -a -m "message" </p>
             </td>
         </tr>
