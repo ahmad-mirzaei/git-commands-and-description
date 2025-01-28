@@ -102,7 +102,7 @@
         </tr>
         <tr>
             <td align="left"><code>git add .</code></td>
-            <td align="right">تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی [staging area]</td>
+            <td align="right">[staging area] تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی </td>
         </tr>
         <tr>
             <td align="left"><code>git add -A</code></td>
