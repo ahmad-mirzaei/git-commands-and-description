@@ -24,7 +24,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png" alt="git-init">
 </div>
 
 <!-- git init -->
@@ -66,15 +66,15 @@
     <tbody>
         <tr>
             <td align="left"><code>git status</code></td>
-            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله (ورکینگ دایرکتوری - استیجینگ - مخزن یا هد) هستند</td>
+            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله ( working directory - staging area - head ) هستند</td>
         </tr>
         <tr>
             <td align="left"><code>git status --short</code></td>
-            <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
+            <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b></td>
         </tr>
         <tr>
             <td align="left"><code>git status -s</code></td>
-            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b> که مثلا در کدام مرحله هستند</td>
+            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b></td>
         </tr>
     </tbody>
 </table>
