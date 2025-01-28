@@ -123,12 +123,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
 </div>
 
-### `` : 
-<p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
-<p align="right">(From staging area to working directory)</p>
-<br>
-<hr>
-
 <table align="center">
     <thead>
         <tr>
@@ -151,7 +145,7 @@
         </tr>      
         <tr>
             <td align="left"><code>git rm --cached [file name]</code></td>
-            <td align="right">فایلی که به استیج رفته را می برد به مرحله ی [working directory]</td>
+            <td align="right">[working directory] فایلی که به استیج رفته را می برد به مرحله ی </td>
         </tr>
     </tbody>
 </table>
