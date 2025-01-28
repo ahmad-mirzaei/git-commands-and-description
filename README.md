@@ -98,19 +98,19 @@
     <tbody>
         <tr>
             <td align="left"><code>git add [file-name]</code></td>
-            <td align="right"><b>فایل</b> staging area مورد نظر را به مرحله ی  می برد</td>
+            <td align="right">[staging area] فایل مورد نظر را می برد به مرحله ی </td>
         </tr>
         <tr>
             <td align="left"><code>git add .</code></td>
-            <td align="right"><b>تمامی</b> staging area فایل ها و تغییرات پروژه را به مرحله ی  می برد </td>
+            <td align="right">تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی [staging area]</td>
         </tr>
         <tr>
             <td align="left"><code>git add -A</code></td>
-            <td align="right"> همانند دستور قبل، <b>تمامی</b> staging area فایل ها و تغییرات پروژه را به مرحله ی  می برد</td>
+            <td align="right">همانند دستور قبلی تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی [staging area]</td>
         </tr>
         <tr>
             <td align="left"><code>git add *.AnExtension</code> -> <code>git add *.css</code></td>
-            <td align="right"><b>تمامی</b> فایلهایی که پسوند مورد نظر را داشته باشند به مرحله ی staging area می برد که در اینجا گفته ایم تمامی فایلهای با پسوند css را به استیج ببر</td>
+            <td align="right">تمامی فایل هایی که پسوند مورد نظر را داشته باشند را می برد به مرحله ی [staging area]</td>
         </tr>
     </tbody>
 </table>
