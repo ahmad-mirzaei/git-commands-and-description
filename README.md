@@ -106,7 +106,7 @@
         </tr>
         <tr>
             <td align="left"><code>git add -A</code></td>
-            <td align="right"><b>تمامی</b> همانند دستور قبل، فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</td>
+            <td align="right"> همانند دستور قبل، <b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</td>
         </tr>
         <tr>
             <td align="left"><code>git add *.AnExtension</code> -> <code>git add *.css</code></td>
