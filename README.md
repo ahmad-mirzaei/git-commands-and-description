@@ -171,8 +171,8 @@
         </tr>
         <tr>
             <td align="left"><code>git commit -am [message]</code> or <code>git commit -a -m [message]</code></td>
-            <td align="right">فایل هایی که از قبل در پروژه ساخته شده اند و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود
-                <br><p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
+            <td align="right"> <p>فایل هایی که از قبل در پروژه ساخته شده اند و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود</p>
+                <p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
                 <p align="left"> modified file --> git commit -am "message" --> git commit -a -m "message" </p>
             </td>
         </tr>
@@ -191,7 +191,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png" alt="git-tag">
 </div>
 
 ### `git tag` or `git tag -l`: 
