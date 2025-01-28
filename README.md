@@ -123,24 +123,40 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
 </div>
 
-### `git rm <file name>` or `git rm -r <fale name>` :
-<p align="right">فایل مورد نظر را از پروژه <b>حذف</b> می کند</p>
-<br>
-
-### `git rm -- *.AnExtension` for example `git rm -- *.py` :
-<p align="right">تمامی فایل هایی که <b>پسوند</b> مورد نظر را داشته باشند حذف می کند</p>
-<br>
-
-### `git rm --cached --ignore-unmatch *.js` :
-<p align="right">تمامی فایل های با پسوند مورد نظر را <b>نادیده</b> گرفته و <b>به مرحله ی ورکینگ دایرکتوری می برد</b></p>
-<br>
-
 ### `git rm --cached <file name>` : 
 <p align="right"><b>فایلی</b> که به مرحله ی استیجینگ اضافه شده را به مرحله ی <b>ورکینگ دایرکتوری</b> بر می گرداند </p>
 <p align="right">(From staging area to working directory)</p>
 <br>
 <hr>
 
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code>git rm [file name]</code> or <code>git rm -r [file name]</code></td>
+            <td align="right">فایل مورد نظر را از پروژه حذف می کند</td>
+        </tr> 
+        <tr>
+            <td align="left"><code>git rm -- *.AnExtension</code> -> <code>git rm -- *.py</code></td>
+            <td align="right">تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند</td>
+        </tr>
+        <tr>
+            <td align="left"><code>git rm --cached --ignore-unmatch *.js</code></td>
+            <td align="right"> تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی [working directory] </td>
+        </tr>      
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<hr>
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
