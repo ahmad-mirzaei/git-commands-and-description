@@ -98,15 +98,15 @@
     <tbody>
         <tr>
             <td align="left"><code>git add [file-name]</code></td>
-            <td align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>staging area</b> می برد</td>
+            <td align="right"><b>فایل</b> staging area مورد نظر را به مرحله ی  می برد</td>
         </tr>
         <tr>
             <td align="left"><code>git add .</code></td>
-            <td align="right"><b>تمامی</b> staging areaفایل ها و تغییرات پروژه را به مرحله ی  می برد </td>
+            <td align="right"><b>تمامی</b> staging area فایل ها و تغییرات پروژه را به مرحله ی  می برد </td>
         </tr>
         <tr>
             <td align="left"><code>git add -A</code></td>
-            <td align="right"> همانند دستور قبل، <b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی staging area می برد</td>
+            <td align="right"> همانند دستور قبل، <b>تمامی</b> staging area فایل ها و تغییرات پروژه را به مرحله ی  می برد</td>
         </tr>
         <tr>
             <td align="left"><code>git add *.AnExtension</code> -> <code>git add *.css</code></td>
