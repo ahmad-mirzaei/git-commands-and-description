@@ -120,7 +120,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png" alt="git-rm">
 </div>
 
 <table align="center">
@@ -154,13 +154,8 @@
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png">
+  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png" alt="git-commit">
 </div>
-
-### `git commit --amend -am [message]` or `git commit --amend -a -m [message]` :
-<p align="right">آخرین تغییرات لوکال یا <b>working directory</b> را به آخرین کامیت اضافه می کند </p>
-<br>
-<hr>
 
 <table align="center">
     <thead>
