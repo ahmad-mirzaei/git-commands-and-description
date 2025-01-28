@@ -194,10 +194,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png" alt="git-tag">
 </div>
 
-### `git tag` or `git tag -l`: 
-<p align="right">تگ برای <b>ورژن بندی</b> پروژه استفاده می شود که این دستور، لیست تگ های درون پروژه را نمایش می دهد و  اگر تگی وجود نداشته باشد، خروجی هم نخواهیم داشت</p>
-<br>
-
 ### `git tag <tag name>` for example `git tag 3.12.0`: 
 <p align="right">اگر یک ورژن یا نام بخصوصی روبروی دستور قرار دهیم آن را <b>برای آخرین کامیت</b> در نظر می گیرد</p>
 <br>
@@ -223,6 +219,38 @@
 در مورد دوم گفته ایم تگ هایی را بیاور که آخر آنها صفر داشته باشد و قبل از آن هر چیزی باشد
 و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد
 </p>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code>git tag</code> or <code>git tag -l</code></td>
+            <td align="right"><p>تگ برای <b>ورژن بندی</b> پروژه استفاده می شود که این دستور، لیست تگ های درون پروژه را نمایش می دهد و اگر تگی وجود نداشته باشد، خروجی هم نخواهیم داشت</p>
+</td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
 
