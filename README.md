@@ -66,7 +66,7 @@
     <tbody>
         <tr>
             <td align="left"><code>git status</code></td>
-            <td align="right">( working directory - staging area - head )مشاهده ی موقعیت فعلی فایل های پروژه؛ </td>
+            <td align="right">( working directory - staging area - head ) مشاهده ی موقعیت فعلی فایل های پروژه؛ </td>
         </tr>
         <tr>
             <td align="left"><code>git status --short</code></td>
@@ -98,19 +98,19 @@
     <tbody>
         <tr>
             <td align="left"><code>git add [file-name]</code></td>
-            <td align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>استیجینگ</b> می برد</td>
+            <td align="right"><b>فایل</b> مورد نظر را به مرحله ی <b>staging area</b> می برد</td>
         </tr>
         <tr>
             <td align="left"><code>git add .</code></td>
-            <td align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</td>
+            <td align="right"><b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی staging area می برد</td>
         </tr>
         <tr>
             <td align="left"><code>git add -A</code></td>
-            <td align="right"> همانند دستور قبل، <b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی استیجینگ می برد</td>
+            <td align="right"> همانند دستور قبل، <b>تمامی</b> فایل ها و تغییرات پروژه را به مرحله ی staging area می برد</td>
         </tr>
         <tr>
             <td align="left"><code>git add *.AnExtension</code> -> <code>git add *.css</code></td>
-            <td align="right"><b>تمامی</b> فایلهایی که پسوند مورد نظر را داشته باشند به مرحله ی استیجینگ می برد که در اینجا گفته ایم تمامی فایلهای با پسوند css را به استیج ببر</td>
+            <td align="right"><b>تمامی</b> فایلهایی که پسوند مورد نظر را داشته باشند به مرحله ی staging area می برد که در اینجا گفته ایم تمامی فایلهای با پسوند css را به استیج ببر</td>
         </tr>
     </tbody>
 </table>
