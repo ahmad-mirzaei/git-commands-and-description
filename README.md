@@ -66,7 +66,7 @@
     <tbody>
         <tr>
             <td align="left"><code>git status</code></td>
-            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله ( working directory - staging area - head ) هستند</td>
+            <td align="right"> ( working directory - staging area - head )مشاهده ی موقعیت فعلی فایل های پروژه که مثلا در کدام مرحله  هستند</td>
         </tr>
         <tr>
             <td align="left"><code>git status --short</code></td>
