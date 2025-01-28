@@ -145,7 +145,7 @@
             <td align="right"> تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی [working directory] </td>
         </tr>      
         <tr>
-            <td align="left"><code>git rm --cached [file name]</code></td>
+            <td align="left"><code>git rm --cached [file name]</code><code>git rm --cached .</code></td>
             <td align="right">[working directory] فایلی که به استیج رفته را می برد به مرحله ی </td>
         </tr>
         <tr>
