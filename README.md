@@ -257,9 +257,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
 </div>
 
-
-<p align="right">کامیت های نویسنده یا یوزر مورد نظر به همراه تاریخ و ساعت درج آنها را بر می گرداند</p>
-
 <table align="center">
     <thead>
         <tr>
@@ -298,11 +295,11 @@
         </tr>
         <tr>
             <td align="left"><code>git log --before="25-10-12"</code></td>
-            <td align="right"></td>
+            <td align="right"><p>کامیت های <b>قبل</b> از یک تاریخ مشخص را بر میگرداند</p></td>
         </tr>
         <tr>
-            <td align="left"><code><p>کامیت های <b>قبل</b> از یک تاریخ مشخص را بر میگرداند</p></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git log --author="user-name"</code></td>
+            <td align="right"><p>کامیت های نویسنده یا یوزر مورد نظر به همراه تاریخ و ساعت درج آنها را بر می گرداند</p></td>
         </tr>
     </tbody>
 </table>
