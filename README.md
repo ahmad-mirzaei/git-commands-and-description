@@ -257,9 +257,7 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
 </div>
 
-### `git log --graph` :
-<p align="right">اطلاعات کامیت ها را به صورت گرافیکی نمایش می دهد</p>
-<br>
+
 
 ### `git log --graph --oneline` :
 <p align="right">اطلاعات کامیت ها را به صورت گرافیکی ولی جزئی تر و خلاصه تر برمیگرداند</p>
@@ -299,6 +297,18 @@
         <tr>
             <td align="left"><code>git log --stat</code></td>
             <td align="right"><p>تغییرات پروژه را به صورت خیلی کاملتری نمایش می دهد؛ به طوری که می توان نام و ایمیل نویسنده، تاریخ و ساعت درج کامیت و همچنین تعداد فایل های تغییر یافته و تعداد خط کدهایی که به فایل تغییر یافته اضافه یا کم شده اند را نمایش می دهد</p></td>
+        </tr>
+        <tr>
+            <td align="left"><code>git log --graph</code></td>
+            <td align="right"><p>اطلاعات کامیت ها را به صورت گرافیکی نمایش می دهد</p></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
         </tr>
         <tr>
             <td align="left"><code></code></td>
