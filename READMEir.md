@@ -21,39 +21,17 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
-
 <!-- git status -->
-<div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png">
-</div>
+![git-status](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png)
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git status</code></td>
-            <td align="right">( working directory - staging area - head ) مشاهده ی موقعیت فعلی فایل های پروژه؛ </td>
-        </tr>
-        <tr>
-            <td align="left"><code>git status --short</code></td>
-            <td align="right">مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git status -s</code></td>
-            <td align="right"> مشاهده ی موقعیت فعلی فایل های پروژه به صورت <b>خلاصه شده</b></td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
+| دستورات | توضیحات |
+|-----|-----:|
+| `git status` | ( working directory - staging area - head ) مشاهده ی موقعیت فعلی فایل های پروژه؛ |
+| `git status --short` | مشاهده ی موقعیت فعلی فایل های پروژه به صورت خلاصه شده |
+| `git status -s` | مشاهده ی موقعیت فعلی فایل های پروژه به صورت خلاصه شده |
+<br />
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+---
 
 <!-- git add  -->
 <div align="center" >
