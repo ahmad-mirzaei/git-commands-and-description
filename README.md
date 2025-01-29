@@ -349,12 +349,7 @@
 </div>
 
 ### `git show` :
-<p align="right"><b>تمامی تغییرات در آخرین کامیت را برمی گرداند</b>؛ اینکه چند خط کد اضافه یا کم شده اند یا توسط چه کسی این تغییرات اعمال شده است</p>
-<br>
-
-### `git show <commit-hash>` :
-<p align="right">تغییرات کامیتی که id وارد شده مربوط به آن می باشد را بر می گرداند که برای مشاهده ی این id باید از دستور git log --oneline استفاده کرد</p>
-<br>
+<p><b>تمامی تغییرات در آخرین کامیت را برمی گرداند</b>؛ اینکه چند خط کد اضافه یا کم شده اند یا توسط چه کسی این تغییرات اعمال شده است</p>
 
 <table align="center">
     <thead>
@@ -369,8 +364,8 @@
             <td align="right"></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git show [commit-hash]</code></td>
+            <td align="right"><p>تغییرات کامیتی که id وارد شده مربوط به آن می باشد را بر می گرداند که برای مشاهده ی این id باید از دستور git log --oneline استفاده کرد</p></td>
         </tr>
         <tr>
             <td align="left"><code>git show [commit-hash] --stat</code></td>
