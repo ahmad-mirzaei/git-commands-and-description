@@ -356,9 +356,6 @@
 <p align="right">تغییرات کامیتی که id وارد شده مربوط به آن می باشد را بر می گرداند که برای مشاهده ی این id باید از دستور git log --oneline استفاده کرد</p>
 <br>
 
-### `git show <commit-hash> --stat` :
-<p align="right">تغییرات اعمال شده در کامیت مورد نظر را به صورت خلاصه شده به همراه مشخصات نویسنده نمایش می دهد</p>
-
 <table align="center">
     <thead>
         <tr>
@@ -376,8 +373,8 @@
             <td align="right"></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git show [commit-hash] --stat</code></td>
+            <td align="right"><p>تغییرات اعمال شده در کامیت مورد نظر را به صورت خلاصه شده به همراه مشخصات نویسنده نمایش می دهد</p></td>
         </tr>
         <tr>
             <td align="left"><code>git show [commit-hash] --path</code></td>
