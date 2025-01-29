@@ -257,10 +257,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
 </div>
 
-### `git log --after="25-10-12"` :
-<p align="right">کامیت های <b>بعد</b> از یک تاریخ مشخص را بر میگرداند</p>
-<br>
-
 ### `git log --before="25-10-12"` :
 <p align="right">کامیت های <b>قبل</b> از یک تاریخ مشخص را بر میگرداند</p>
 <br>
@@ -301,8 +297,8 @@
             <td align="right"><p>اطلاعات کامیت ها را به صورت گرافیکی ولی جزئی تر و خلاصه تر برمیگرداند</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git log --after="25-10-12"</code></td>
+            <td align="right"><p>کامیت های <b>بعد</b> از یک تاریخ مشخص را بر میگرداند</p></td>
         </tr>
         <tr>
             <td align="left"><code></code></td>
