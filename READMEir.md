@@ -33,39 +33,18 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<!-- git add  -->
-<div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png">
-</div>
+<!-- git add -->
+![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png)
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git add [file-name]</code></td>
-            <td align="right">[staging area] فایل مورد نظر را می برد به مرحله ی </td>
-        </tr>
-        <tr>
-            <td align="left"><code>git add .</code></td>
-            <td align="right">[staging area] تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی </td>
-        </tr>
-        <tr>
-            <td align="left"><code>git add -A</code></td>
-            <td align="right">همانند دستور قبلی تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی [staging area]</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git add *.AnExtension</code> -> <code>git add *.css</code></td>
-            <td align="right">تمامی فایل هایی که پسوند مورد نظر را داشته باشند را می برد به مرحله ی [staging area]</td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
+| دستورات | توضیحات |
+|-----|-----:|
+| `git add [file-name]` | [staging area] فایل مورد نظر را می برد به مرحله ی |
+| `git add .` | [staging area] تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی  |
+| `git add -A` | همانند دستور قبلی تمامی فایل ها و تغییرات پروژه را می برد به مرحله ی [staging area] |
+| `git add *.AnExtension` -> `git add *.css` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند را می برد به مرحله ی [staging area] |
+<br />
+
+--- 
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
