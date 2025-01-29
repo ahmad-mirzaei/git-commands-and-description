@@ -14,7 +14,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 ![create-an-empty-git-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
 
 | دستورات | توضیحات |
-|-----|-----|
+|-----|-----:|
 | `git init` | معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن (ایجاد یک ریپوزیتوری یا مخزن خالی در لوکال شما) |
 | `git` | مشاهده ی دستورات گیت |
 <br />
