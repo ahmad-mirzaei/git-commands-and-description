@@ -1,31 +1,26 @@
-<!-- description -->
-<h2 align="center">
-  دستورات <a href="https://git-scm.com/doc">گیت</a> به همراه توضیحات مختصر آنها در اینجا قرار خواهند گرفت
-</h2>
-<br>
-<hr>
+# دستورات گیت و توضیحات
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+## توضیحات
+_دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات مختصر آنها در این ریپوزیتوری فهرست می شوند؛ از ترجمه به زبانهای دیگر استفبال می شود_
 
-<!-- git logo -->
-<!-- <div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2100aca18de101af32ed35f314d8c462dfd8dd29/git-logo-gif.gif">
-</div>
-<br> -->
+---
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+- **ورژن های ترجمه شده**
+    - [Persian Version - فارسی](READMEir.md)
 
-<!-- read-line -->
-<!-- <div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/ae35ec9426f4bb320eefac7d94961e33acc729ff/red-line.gif">
-</div>
-<br> -->
+---
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+<!-- create-an-empty-git-repository -->
+![create-an-empty-git-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
 
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png" alt="git-init">
-</div>
+| دستورات | توضیحات |
+|-----|-----|
+| `git init` | معرفی کردن پروژه به گیت یا اینیشیالایز کردن آن (ایجاد یک ریپوزیتوری یا مخزن خالی در لوکال شما) |
+| `git` | مشاهده ی دستورات گیت |
+<br />
+
+---
+
 
 <!-- git init -->
 <table align="center">
