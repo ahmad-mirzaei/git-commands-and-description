@@ -18,6 +18,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git init` | introducing the project to Git or initializing it |
 | `git` | observe git commands |
 <br />
+
 ---
 
 <!-- git status -->
@@ -29,5 +30,6 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git status --short` | View the summary of the current project file status |
 | `git status -s` | View the summary of the current project file status |
 <br />
+
 ---
 
