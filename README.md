@@ -409,10 +409,6 @@
 <p align="right">مشاهده ی نام یا ایمیل کاربری که برای تمام پروژه ها انتخاب کرده ایم</p>
 <br>
 
-### `git config user.name <your-name>` and `git config user.email <your-email>` :
-<p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>یک پروژه</b></p>
-<br>
-
 <table align="center">
     <thead>
         <tr>
@@ -442,8 +438,8 @@
             <td align="right"></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git config user.name [your-name]</code> & <code>git config user.email [your-email]</code></td>
+            <td align="right"><p>تنظیم نام کاربری و یا ایمیل کاربری برای <b>یک پروژه</b></p></td>
         </tr>
         <tr>
             <td align="left"><code>git config user.name</code> or <code>git config user.email</code></td>
