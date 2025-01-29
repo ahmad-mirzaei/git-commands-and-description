@@ -313,14 +313,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a05680cf6bd592387e68299797be47dc6add29/images/git-blame.png">
 </div>
 
-### `git blame [<file name>] -L [start-line],[end-line]` --> 
-### `git blame python.py -L 10,20`:
-<p align="right">زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p>
-<br>
-
-### `git blame -L start-line,end-line [<file-name>]` :
-<p align="right">زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p>
-
 <table align="center">
     <thead>
         <tr>
@@ -338,12 +330,12 @@
             <td align="right"><p>یک زمانی میخواهیم بدانیم که کدهای یک قسمت پروژه، مثلاً در یک فایل خاص، توسط چه کسی نوشته شده اند که برای این کار، از این دستور استفاده می کنیم که <b>ایمیل نویسنده</b> به همراه تاریخ درج و ساعت کامیت را نمایش میدهد</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git blame [file name] -L [start-line],[end-line]</code> -> <code>git blame python.py -L 10,20</code></td>
+            <td align="right"><p>زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git blame -L start-line,end-line [file-name]</code></td>
+            <td align="right"><p>زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p></td>
         </tr>
     </tbody>
 </table>
