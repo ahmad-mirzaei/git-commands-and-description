@@ -362,10 +362,37 @@
 
 ### `git show <commit-hash> --path` :
 <p align="right">این دستور تفاوت های واقعی ایجاد شده در commit از جمله خطوط اضافه و حذف شده را نمایش می دهد</p>
-<br>
 
-### `git show <tag name>` example `git show 3.13.2` :
-<p align="right">برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم</p>
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code>git show [tag name]</code> -> <code>git show 3.13.2</code></td>
+            <td align="right"><p>برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم</p></td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
 
