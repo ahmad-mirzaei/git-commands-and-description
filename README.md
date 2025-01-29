@@ -358,10 +358,6 @@
 
 ### `git show <commit-hash> --stat` :
 <p align="right">تغییرات اعمال شده در کامیت مورد نظر را به صورت خلاصه شده به همراه مشخصات نویسنده نمایش می دهد</p>
-<br>
-
-### `git show <commit-hash> --path` :
-<p align="right">این دستور تفاوت های واقعی ایجاد شده در commit از جمله خطوط اضافه و حذف شده را نمایش می دهد</p>
 
 <table align="center">
     <thead>
@@ -384,8 +380,8 @@
             <td align="right"></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git show [commit-hash] --path</code></td>
+            <td align="right"><p>این دستور تفاوت های واقعی ایجاد شده در commit از جمله خطوط اضافه و حذف شده را نمایش می دهد</p></td>
         </tr>
         <tr>
             <td align="left"><code>git show [tag name]</code> -> <code>git show 3.13.2</code></td>
