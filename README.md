@@ -344,12 +344,10 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
+<!-- git show -->
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/42834c805f3cb89302e3e0d94652766b4d0a6087/images/git-show.png">
 </div>
-
-### `git show` :
-<p><b>تمامی تغییرات در آخرین کامیت را برمی گرداند</b>؛ اینکه چند خط کد اضافه یا کم شده اند یا توسط چه کسی این تغییرات اعمال شده است</p>
 
 <table align="center">
     <thead>
@@ -360,8 +358,8 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git show</code></td>
+            <td align="right"><p><b>تمامی تغییرات در آخرین کامیت را برمی گرداند</b>؛ اینکه چند خط کد اضافه یا کم شده اند یا توسط چه کسی این تغییرات اعمال شده است</p></td>
         </tr>
         <tr>
             <td align="left"><code>git show [commit-hash]</code></td>
