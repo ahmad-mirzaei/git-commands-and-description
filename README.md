@@ -3,6 +3,8 @@
 ## Description
 _[Git](https://git-scm.com/doc) commands are stored in this directory along with their brief descriptions. We welcome translations into other languages._
 
+---
+
 - **Translated versions**
     - [Persian Version - فارسی](READMEir.md)
 
