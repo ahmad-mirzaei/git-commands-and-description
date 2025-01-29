@@ -384,6 +384,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
+<!-- git config -->
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a93a088f87ae7106cffd3f9f45214ae88ec6fd/images/git-config.png">
 </div>
@@ -412,8 +413,44 @@
 <p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>یک پروژه</b></p>
 <br>
 
-### `git config user.name` or `git config user.email` :
-<p align="right">مشاهده ی نام یا ایمیل کاربری که برای یک پروژه انتخاب کرده ایم</p>
+<table align="center">
+    <thead>
+        <tr>
+            <th>دستورات</th>
+            <th>توضیحات</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code></code></td>
+            <td align="right"></td>
+        </tr>
+        <tr>
+            <td align="left"><code>git config user.name</code> or <code>git config user.email</code></td>
+            <td align="right"><p>مشاهده ی نام یا ایمیل کاربری که برای یک پروژه انتخاب کرده ایم</p></td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <hr>
 
