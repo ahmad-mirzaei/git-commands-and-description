@@ -389,26 +389,6 @@
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a93a088f87ae7106cffd3f9f45214ae88ec6fd/images/git-config.png">
 </div>
 
-### `git config --list` :
-<p align="right">لیستی از تمام تنظیمات پیکر بندی را که در حال حاضر روی نسخه ی نصبی گیت شما وجود دارد را نمایش می دهد؛ مثل تنظیمات محلی، تنظیمات سراسری و تنظیمات سیستم</p>
-<br>
-
-### `git config --local alias.<name> <command-name>` -> `git config --local alias.com commit` :
-<p align="right">با استفاده از این دستور می توانیم برای دستورات گیت <b>درون لوکال</b> خودمان، اسامی کوتاه تر و خلاصه انتخاب کنیم که در این دستور، کامند commit را به com خلاصه کرده ایم</p>
-<br>
-
-### `git config --global alias.com  commit` :
-<p align="right">اگر بخواهیم از یک نام مستعار در <b>تمامی پروژه هایمان</b> استفاده کنیم به جای کلمه ی local از کلمه ی global استفاده میکنیم</p>
-<br>
-
-### `git config --global user.name <your-name>` and `git config --global user.email <your-email>` :
-<p align="right">تنظیم نام کاربری و یا ایمیل کاربری برای <b>تمامی پروژه ها</b></p>
-<br>
-
-### `git config --global user.name` or `git config --global user.email` :
-<p align="right">مشاهده ی نام یا ایمیل کاربری که برای تمام پروژه ها انتخاب کرده ایم</p>
-<br>
-
 <table align="center">
     <thead>
         <tr>
@@ -418,24 +398,24 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git config --list</code></td>
+            <td align="right"><p>لیستی از تمام تنظیمات پیکر بندی را که در حال حاضر روی نسخه ی نصبی گیت شما وجود دارد را نمایش می دهد؛ مثل تنظیمات محلی، تنظیمات سراسری و تنظیمات سیستم</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git config --local alias.[name] [command-name]</code> -> <code>`git config --local alias.com commit</code></td>
+            <td align="right"><p>با استفاده از این دستور می توانیم برای دستورات گیت <b>درون لوکال</b> خودمان، اسامی کوتاه تر و خلاصه انتخاب کنیم که در این دستور، کامند commit را به com خلاصه کرده ایم</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git config --global alias.com commit</code></td>
+            <td align="right"><p>اگر بخواهیم از یک نام مستعار در <b>تمامی پروژه هایمان</b> استفاده کنیم به جای کلمه ی local از کلمه ی global استفاده میکنیم</p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git config --global user.name [your-name]</code> & <code>git config --global user.email [your-email]</code></td>
+            <td align="right"><p>تنظیم نام کاربری و یا ایمیل کاربری برای <b>تمامی پروژه ها</b></p></td>
         </tr>
         <tr>
-            <td align="left"><code></code></td>
-            <td align="right"></td>
+            <td align="left"><code>git config --global user.name</code> & <code>git config --global user.email</code></td>
+            <td align="right"><p>مشاهده ی نام یا ایمیل کاربری که برای تمام پروژه ها انتخاب کرده ایم</p></td>
         </tr>
         <tr>
             <td align="left"><code>git config user.name [your-name]</code> & <code>git config user.email [your-email]</code></td>
