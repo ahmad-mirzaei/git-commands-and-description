@@ -38,8 +38,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
-| `git add [file-name]` | it takes the selected file to the staging area |
-| `git add .` |  |
+| `git add [file-name]` | it takes the selected file to the `staging area` |
+| `git add .` | it takes all files and project changes to the `staging area` |
 | `git add -A` |  |
 | `git add *.AnExtension` -> `git add *.css` |  |
 <br />
