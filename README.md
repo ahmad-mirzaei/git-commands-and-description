@@ -53,8 +53,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |-----|-----|
 | `git rm [file name]` or `git rm -r [file name]` | it removes the selected file from the project |
 | `git rm -- *.AnExtension` -> `git rm -- *.py` | it removes all files that have the selected extension from the project |
-| `` |  |
-| `` |  |
+| `git rm --cached --ignore-unmatch *.js` | it ignores all the files with the selected extension and takes it to the [working directory] |
+| `git rm --cached [file name]` -> `git rm --cached .` | it takes the file or all the files that have gone to the staging area to the [working directory] |
 | `` |  |
 <br />
 
