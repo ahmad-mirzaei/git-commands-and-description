@@ -46,31 +46,6 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 --- 
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git rm --cached [file name]</code> -> <code>git rm --cached .</code></td>
-            <td align="right">[working directory] فایل یا تمامی فایلهایی که به استیج رفته اند را می برد به مرحله ی </td>
-        </tr>
-        <tr>
-            <td align="left"><code>git rm -rf --cached .</code></td>
-            <td align="right">
-                <p>
-                    اگر مدتی پس از ایجاد پروژه بخواهیم فایلهایی را در <b>gitignore.</b> قرار دهیم و این کار انجام نشود، به این دلیل است که آن فایل ها در حال حاضر در مخزن یا ریپوزیتوری هستند و باید ابتدا آنها را با این دستور به <b>working directory</b> برده، و سپس دوباره به <b>staging area</b> ببریم
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
-
 <!-- git rm -->
 ![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
 
@@ -80,8 +55,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rm -- *.AnExtension` -> `git rm -- *.py` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند |
 | `git rm --cached --ignore-unmatch *.js` | [working directory] تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی |
 | `git rm --cached [file name]` -> `git rm --cached .` | [working directory] فایل یا تمامی فایلهایی که به استیج رفته اند را می برد به مرحله ی |
-| `` |  |
-| `` |  |
+| `git rm -rf --cached .` | [working directory] تمامی فایل ها را از `ریپوزیرتوری لوکال` می برد به مرحله ی  |
 <br />
 
 --- 
