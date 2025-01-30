@@ -55,12 +55,8 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code>git rm --cached --ignore-unmatch *.js</code></td>
-            <td align="right"> [working directory] تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی  </td>
-        </tr>      
-        <tr>
             <td align="left"><code>git rm --cached [file name]</code> -> <code>git rm --cached .</code></td>
-            <td align="right">[working directory] فایلی که به استیج رفته را می برد به مرحله ی </td>
+            <td align="right">[working directory] فایل یا تمامی فایلهایی که به استیج رفته اند را می برد به مرحله ی </td>
         </tr>
         <tr>
             <td align="left"><code>git rm -rf --cached .</code></td>
@@ -83,7 +79,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rm [file name]` or `git rm -r [file name]` | فایل مورد نظر را از پروژه حذف می کند |
 | `git rm -- *.AnExtension` -> `git rm -- *.py` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند |
 | `git rm --cached --ignore-unmatch *.js` | [working directory] تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی |
-| `` |  |
+| `git rm --cached [file name]` -> `git rm --cached .` | [working directory] فایل یا تمامی فایلهایی که به استیج رفته اند را می برد به مرحله ی |
 | `` |  |
 | `` |  |
 <br />
