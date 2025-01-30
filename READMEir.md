@@ -50,7 +50,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 ![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
 
 | دستورات | توضیحات |
-|-----|-----:|
+|-----|-----|
 | `git rm [file name]` or `git rm -r [file name]` | فایل مورد نظر را از پروژه حذف می کند |
 | `git rm -- *.AnExtension` -> `git rm -- *.py` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند |
 | `git rm --cached --ignore-unmatch *.js` | [working directory] تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی |
