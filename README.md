@@ -41,7 +41,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git add [file-name]` | it takes the selected file to the `staging area` |
 | `git add .` | it takes all files and project changes to the `staging area` |
 | `git add -A` | it takes all files and changes of the project to the staging area, just like the previous command |
-| `git add *.AnExtension` -> `git add *.css` |  |
+| `git add *.AnExtension` -> `git add *.css` | it takes all of the files with the selected extension to the `staging area` |
 <br />
 
 ---
