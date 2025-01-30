@@ -46,13 +46,6 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 --- 
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
-
-<!-- git rm -->
-<div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png" alt="git-rm">
-</div>
-
 <table align="center">
     <thead>
         <tr>
@@ -61,10 +54,6 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td align="left"><code>git rm [file name]</code> or <code>git rm -r [file name]</code></td>
-            <td align="right">فایل مورد نظر را از پروژه حذف می کند</td>
-        </tr> 
         <tr>
             <td align="left"><code>git rm -- *.AnExtension</code> -> <code>git rm -- *.py</code></td>
             <td align="right">تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند</td>
@@ -89,6 +78,22 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 </table>
 <br>
 <hr>
+
+<!-- git rm -->
+![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
+
+| دستورات | توضیحات |
+|-----|-----:|
+| `git rm [file name]` or `git rm -r [file name]` | فایل مورد نظر را از پروژه حذف می کند |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+--- 
+
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
