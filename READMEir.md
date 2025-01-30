@@ -55,10 +55,6 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     </thead>
     <tbody>
         <tr>
-            <td align="left"><code>git rm -- *.AnExtension</code> -> <code>git rm -- *.py</code></td>
-            <td align="right">تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند</td>
-        </tr>
-        <tr>
             <td align="left"><code>git rm --cached --ignore-unmatch *.js</code></td>
             <td align="right"> تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی [working directory] </td>
         </tr>      
@@ -85,7 +81,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | دستورات | توضیحات |
 |-----|-----:|
 | `git rm [file name]` or `git rm -r [file name]` | فایل مورد نظر را از پروژه حذف می کند |
-| `` |  |
+| `git rm -- *.AnExtension` -> `git rm -- *.py` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند |
 | `` |  |
 | `` |  |
 | `` |  |
