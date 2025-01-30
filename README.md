@@ -52,6 +52,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git rm [file name]` or `git rm -r [file name]` | it removes the selected file from the project |
+| `git rm -- *.AnExtension` -> `git rm -- *.py` | it removes all files that have the selected extension from the project |
 | `` |  |
 | `` |  |
 | `` |  |
