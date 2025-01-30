@@ -45,3 +45,16 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 ---
+
+<!-- git rm -->
+![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git rm [file name]` or `git rm -r [file name]` | it removes the selected file from the project |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+---
