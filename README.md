@@ -33,3 +33,6 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- git add -->
+![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png)
+
