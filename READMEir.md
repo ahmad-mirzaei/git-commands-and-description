@@ -54,7 +54,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rm [file name]` or `git rm -r [file name]` | فایل مورد نظر را از پروژه حذف می کند |
 | `git rm -- *.AnExtension` -> `git rm -- *.py` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند |
 | `git rm --cached --ignore-unmatch *.js` | [working directory] تمامی فایل های با پسوند مورد نظر را می برد به مرحله ی  |
-| `git rm --cached [file name]` -> `git rm --cached .` | [working directory] تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به مرحله ی  |
+| `git rm --cached [file name]` -> `git rm --cached .` | [working directory] تمامی فایل های با پسوند مورد نظر را نادیده گرفته و می برد به  |
 | `git rm -rf --cached .` | [working directory] تمامی فایل ها را از `ریپوزیرتوری لوکال` می برد به مرحله ی  |
 <br />
 
