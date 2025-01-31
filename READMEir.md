@@ -72,8 +72,7 @@ new file --> git add "file name" --> git commit -m "message"
 
 modified file --> git commit -am "message" --> git commit -a -m "message"  |
 | `git commit --amend -m [message]` | تغییر نام آخرین کامیت |
-| `` |  |
-| `` |  |
+| `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | آخرین تغییرات لوکال یا `working directory` را به آخرین کامیت اضافه می کند  |
 <br />
 
 --- 
