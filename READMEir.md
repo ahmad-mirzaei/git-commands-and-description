@@ -62,10 +62,6 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
-<div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png" alt="git-commit">
-</div>
-
 <table align="center">
     <thead>
         <tr>
@@ -97,6 +93,21 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 </table>
 <br>
 <hr>
+
+<!-- git rm -->
+![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
+
+| دستورات | توضیحات |
+|-----|-----:|
+| `git commit -m [message]` | فایل های پروژه که در مرحله ی استیجینگ قرار دارند را با یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد (From staging area to HEAD or repositories) |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+--- 
+
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <div align="center" >
