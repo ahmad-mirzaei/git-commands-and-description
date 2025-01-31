@@ -83,7 +83,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git tag 3.13.0 [commit-hash]` -> `git tag v5.2.0 6d2ef95` | By putting the version or a name for the tag plus the hash coad of the selected commit, we can tag our commits |
 | `git show [tag name]` -> `git show 3.13.2` | Viewing the changes in every tag |
 | `git tag -d [tag name]` -> `git tag -d 3.12.2` | Removing the tag |
-|  |  |
+| `git tag -f [tag name] [commit-hash]` -> `git tag -f v2.1.1 6d2ef95` | Removing a tag name from one comit and put the same name for another comite |
 |  |  |
 <br />
 
