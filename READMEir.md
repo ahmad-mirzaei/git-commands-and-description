@@ -60,47 +60,17 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 --- 
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
-
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git commit -m [message]</code></td>
-            <td align="right">(From staging area to HEAD or repositories) فایل های پروژه که در مرحله ی استیجینگ قرار دارند را به یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git commit -am [message]</code> or <code>git commit -a -m [message]</code></td>
-            <td align="right"> <p>فایل هایی که از قبل در پروژه ساخته شده اند و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود</p>
-                <p align="left"> new file --> git add "file name" --> git commit -m "message" </p>
-                <p align="left"> modified file --> git commit -am "message" --> git commit -a -m "message" </p>
-            </td>
-        </tr>
-        <tr>
-            <td align="left"><code>git commit --amend -m [message]</code></td>
-            <td align="right">تغییر نام آخرین کامیت</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git commit --amend -am [message]</code> or <code>git commit --amend -a -m [message]</code></td>
-            <td align="right"><p>آخرین تغییرات لوکال یا <b>working directory</b> را به آخرین کامیت اضافه می کند </p></td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
-
-<!-- git rm -->
+<!-- git commit -->
 ![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
 
 | دستورات | توضیحات |
 |-----|-----:|
 | `git commit -m [message]` | فایل های پروژه که در مرحله ی استیجینگ قرار دارند را با یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد (From staging area to HEAD or repositories) |
-| `` |  |
+| `git commit -am [message]` or `git commit -a -m [message]` | فایل هایی که از قبل در پروژه ساخته شده اند و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد؛ اما اگر فایلی تازه ایجاد شده باشد ابتدا باید به استیج اضافه شود و سپس با کامیت مناسب به ریپوزیتوری اضافه شود
+
+new file --> git add "file name" --> git commit -m "message"
+
+modified file --> git commit -am "message" --> git commit -a -m "message"  |
 | `` |  |
 | `` |  |
 | `` |  |
