@@ -79,7 +79,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git tag` or `git tag -l` | Displays the list of tags in the project |
-|  |  |
+| `git tag [tag name]` -> `git tag 3.12.0` | if we put a version or a special name in front of the command, it will be considered for the last commit |
 |  |  |
 |  |  |
 |  |  |
