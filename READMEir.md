@@ -71,7 +71,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 new file --> git add "file name" --> git commit -m "message"
 
 modified file --> git commit -am "message" --> git commit -a -m "message"  |
-| `` |  |
+| `git commit --amend -m [message]` | تغییر نام آخرین کامیت |
 | `` |  |
 | `` |  |
 <br />
