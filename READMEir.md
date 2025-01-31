@@ -64,7 +64,7 @@ _دستورات [گیت](https://git-scm.com/doc) .به همراه توضیحا�
 ![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
 
 | دستورات | توضیحات |
-|-----|-----|
+|-----|-----:|
 | `git commit -m [message]` | فایل های پروژه که در مرحله ی استیجینگ قرار دارند را با یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد (From staging area to HEAD or repositories) |
 | `git commit -am [message]` or `git commit -a -m [message]` | **فایل هایی که از قبل در پروژه ساخته شده اند** و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد <br /> new file --> git add "file name" --> git commit -m "message" <br /> modified file --> git commit -am "message" --> git commit -a -m "message" |
 | `git commit --amend -m [message]` | تغییر نام آخرین کامیت |
@@ -73,11 +73,21 @@ _دستورات [گیت](https://git-scm.com/doc) .به همراه توضیحا�
 
 --- 
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+<!-- git tag -->
+![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
 
-<div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png" alt="git-tag">
-</div>
+| دستورات | توضیحات |
+|-----|-----:|
+| `git tag` or `git tag -l` | تگ برای ورژن بندی پروژه استفاده می شود که این دستور، لیست تگ های درون پروژه را نمایش می دهد و اگر تگی وجود نداشته باشد، خروجی هم نخواهیم داشت |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+--- 
 
 <table align="center">
     <thead>
