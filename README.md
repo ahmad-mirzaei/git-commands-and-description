@@ -72,3 +72,19 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 ---
+
+<!-- git tag -->
+![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git tag` or `git tag -l` | Displays the list of tags in the project |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+<br />
+
+---

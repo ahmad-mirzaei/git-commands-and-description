@@ -74,7 +74,7 @@ _دستورات [گیت](https://git-scm.com/doc) .به همراه توضیحا�
 --- 
 
 <!-- git tag -->
-![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
+![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
 
 | دستورات | توضیحات |
 |-----|-----:|
