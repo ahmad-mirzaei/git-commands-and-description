@@ -61,7 +61,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git commit -->
-![git-rm]()
+![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
 
 | commands | descriptions |
 |-----|-----|
