@@ -59,3 +59,16 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 ---
+
+<!-- git commit -->
+![git-rm]()
+
+| commands | descriptions |
+|-----|-----|
+| `git commit -m [message]` | it takes staging area changes to the repository with a related message |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+---
