@@ -96,10 +96,10 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |-----|-----|
 | `git log` | it returns the changes and commits of the project |
 | `git log --oneline` | it returns the changes and commits of the project in a summarized and short form |
-| `git log --oneline --all` | Viewing all commits and seeing the position of origin and head |
+| `git log --oneline --all` | viewing all commits and seeing the position of origin and head |
 | `git log --stat` | it reverts the project changes completely |
 | `git log --graph` | it returns the commit information graphically |
-| `` |  |
+| `git log --graph --oneline` | it returns the commits in a graphic , detailed and summeraized way |
 | `` |  |
 | `` |  |
 | `` |  |
