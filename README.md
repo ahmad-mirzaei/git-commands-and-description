@@ -10,6 +10,11 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+- **List of commands**
+    - [Updating-Coming-Soon](#updating-coming-soon) 
+
+---
+
 <!-- git init -->
 ![create-an-empty-git-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
 
@@ -107,4 +112,5 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
-![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
+
+# ![Updating-Coming-Soon](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
