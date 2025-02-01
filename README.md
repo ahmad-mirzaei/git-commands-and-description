@@ -32,7 +32,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git` | observe git commands |
 <br />
 
-[go to the command list](#go-to-the-command-list)
+[👆 go up](#go-to-the-command-list)
 
 ---
 
