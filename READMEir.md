@@ -66,7 +66,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git add *.AnExtension` -> `git add *.css` |[staging area] تمامی فایل هایی که پسوند مورد نظر را داشته باشند را می برد به مرحله ی  |
 <br />
 
-👈[مبحث قبلی](#git-status) &nbsp;&nbsp;&nbsp; 👆[برو به فهرست](#go-to-the-command-list)
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-status)👈  
 
 --- 
 
@@ -83,7 +83,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rm -rf --cached .` | [working directory] تمامی فایل ها را از `ریپوزیرتوری لوکال` می برد به مرحله ی  |
 <br />
 
-👈[مبحث قبلی](#git-add) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-add)👈
 
 --- 
 
@@ -99,7 +99,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | آخرین تغییرات لوکال یا `working directory` را به آخرین کامیت اضافه می کند  |
 <br />
 
-👈[مبحث قبلی](#git-rm) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-rm)👈
 
 --- 
 
@@ -118,7 +118,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` | برای سرچ در تگ ها استفاده می کنیم که در مورد اول گفته ایم تگهایی که ابتدای آنها با فلان مشخصات شروع می شود و بعد از آن هر چیزی باشد در مورد دوم گفته ایم تگ هایی را بیاور که آخر آنها صفر داشته باشد و قبل از آن هر چیزی باشد و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد |
 <br />
 
-👈[مبحث قبلی](#git-commit) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-commit)👈 
 
 --- 
 
@@ -141,7 +141,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git log --author="user-name"` | کامیت های نویسنده یا یوزر مورد نظر به همراه تاریخ و ساعت درج آنها را بر می گرداند  |
 <br />
 
-👈[مبحث قبلی](#git-tag) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-tag)👈  
 
 --- 
 
