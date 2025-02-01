@@ -102,7 +102,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git log --graph --oneline` | it returns the commits in a graphic , detailed and summeraized way |
 | `git log --after="25-10-12"` | it returns the commits after a specified date |
 | `git log --before="25-10-12"` | it returns the commits before a specified date |
-| `` |  |
+| `git log --author="user-name"` | it returns the commits of the selected author or user along with the date and time of their insertion |
 <br />
 
 ---
