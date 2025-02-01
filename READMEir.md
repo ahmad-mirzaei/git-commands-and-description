@@ -394,7 +394,4 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <hr>
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/36c973fd4e0ed02cf70a5832c59b4c60d132334b/images/loading.gif">
-</div>
-<p align="center">Updating...</p>
+![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
