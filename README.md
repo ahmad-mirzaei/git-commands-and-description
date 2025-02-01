@@ -1,4 +1,4 @@
-# Git Commands & Explanations
+# Git Commands & Description
 
 ## Description
 _[Git](https://git-scm.com/doc) commands are stored in this directory along with their brief descriptions. We welcome translations into other languages._
