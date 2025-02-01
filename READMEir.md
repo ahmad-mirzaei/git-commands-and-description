@@ -92,9 +92,17 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <!-- git log -->
-<div align="center" >
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png">
-</div>
+![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
+
+| دستورات | توضیحات |
+|-----|-----:|
+| `git log` | تغییرات و کامیت های پروژه را بر می گرداند که در خروجی می توان نام و ایمیل نویسنده، تاریخ و ساعت درج کامیت را مشاهده کرد |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+--- 
 
 <table align="center">
     <thead>
