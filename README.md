@@ -95,7 +95,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git log` | it returns the changes and commits of the project |
-| `` |  |
+| `git log --oneline` | it returns the changes and commits of the project in a summarized and short form |
 | `` |  |
 | `` |  |
 | `` |  |
