@@ -100,7 +100,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git log --stat` | it reverts the project changes completely |
 | `git log --graph` | it returns the commit information graphically |
 | `git log --graph --oneline` | it returns the commits in a graphic , detailed and summeraized way |
-| `` |  |
+| `git log --after="25-10-12"` | it returns the commits after a specified date |
 | `` |  |
 | `` |  |
 <br />
