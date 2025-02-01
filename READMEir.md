@@ -92,7 +92,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <!-- git log -->
-![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
+![git-log](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
 
 | دستورات | توضیحات |
 |-----|-----:|

@@ -90,7 +90,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git log -->
-![git-tag]()
+![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
 
 | commands | descriptions |
 |-----|-----|
