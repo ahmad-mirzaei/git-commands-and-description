@@ -88,3 +88,21 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 ---
+
+<!-- git log -->
+![git-tag]()
+
+| commands | descriptions |
+|-----|-----|
+| `git log` | it returns the changes and commits of the project |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+---
