@@ -5,12 +5,26 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-- **ورژن های ترجمه شده**
+- ### **ورژن های ترجمه شده**
     - [Persian Version - فارسی](READMEir.md)
 
 ---
 
+<a id="go-to-the-command-list"></a>
+
+- ### **فهرست دستورات**
+    - [Create empty repository](#create-empty-repository) 
+    - [Git status](#git-status) 
+    - [Git add](#git-add) 
+    - [Git rm](#git-rm) 
+    - [Git commit](#git-commit) 
+    - [Git tag](#git-tag) 
+    - [Git log](#git-log) 
+
+---
+
 <!-- git init -->
+## <a id="create-empty-repository"></a>
 ![create-an-empty-git-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
 
 | دستورات | توضیحات |
@@ -19,9 +33,12 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git` | مشاهده ی دستورات گیت |
 <br />
 
+👆[برو به فهرست](#go-to-the-command-list)
+
 ---
 
 <!-- git status -->
+## <a id="git-status"></a>
 ![git-status](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png)
 
 | دستورات | توضیحات |
@@ -31,9 +48,12 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git status -s` | مشاهده ی موقعیت فعلی فایل های پروژه به صورت خلاصه شده |
 <br />
 
+👈[مبحث قبلی](#create-empty-repository) &nbsp;&nbsp;&nbsp; 👆[برو به فهرست](#go-to-the-command-list)
+
 ---
 
 <!-- git add -->
+## <a id="git-add"></a>
 ![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png)
 
 | دستورات | توضیحات |
@@ -44,9 +64,12 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git add *.AnExtension` -> `git add *.css` |[staging area] تمامی فایل هایی که پسوند مورد نظر را داشته باشند را می برد به مرحله ی  |
 <br />
 
+👈[مبحث قبلی](#git-status) &nbsp;&nbsp;&nbsp; 👆[برو به فهرست](#go-to-the-command-list)
+
 --- 
 
 <!-- git rm -->
+## <a id="git-rm"></a>
 ![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
 
 | دستورات | توضیحات |
@@ -58,9 +81,12 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rm -rf --cached .` | [working directory] تمامی فایل ها را از `ریپوزیرتوری لوکال` می برد به مرحله ی  |
 <br />
 
+👈[مبحث قبلی](#git-add) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+
 --- 
 
 <!-- git commit -->
+## <a id="git-commit"></a>
 ![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
 
 | دستورات | توضیحات |
@@ -71,9 +97,12 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | آخرین تغییرات لوکال یا `working directory` را به آخرین کامیت اضافه می کند  |
 <br />
 
+👈[مبحث قبلی](#git-rm) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+
 --- 
 
 <!-- git tag -->
+## <a id="git-tag"></a>
 ![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
 
 | دستورات | توضیحات |
@@ -87,11 +116,14 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` | برای سرچ در تگ ها استفاده می کنیم که در مورد اول گفته ایم تگهایی که ابتدای آنها با فلان مشخصات شروع می شود و بعد از آن هر چیزی باشد در مورد دوم گفته ایم تگ هایی را بیاور که آخر آنها صفر داشته باشد و قبل از آن هر چیزی باشد و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد |
 <br />
 
+👈[مبحث قبلی](#git-commit) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
+
 --- 
 
 <!-- ---------------------------------------------------------------------------------------------------------- -->
 
 <!-- git log -->
+## <a id="git-log"></a>
 ![git-log](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
 
 | دستورات | توضیحات |
@@ -106,6 +138,8 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git log --before="25-10-12"` | کامیت های **قبل از یک تاریخ مشخص** را بر میگرداند |
 | `git log --author="user-name"` | کامیت های نویسنده یا یوزر مورد نظر به همراه تاریخ و ساعت درج آنها را بر می گرداند  |
 <br />
+
+👈[مبحث قبلی](#git-tag) &nbsp;&nbsp;&nbsp;👆[برو به فهرست](#go-to-the-command-list)
 
 --- 
 
