@@ -11,12 +11,18 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 - **List of commands**
-    - [Updating](#updating) 
+    - [Create empty repository](#create-empty-repository) 
+    - [Git status](#git-status) 
+    - [Git add](#git-add) 
+    - [Git rm](#git-rm) 
+    - [Git commit](#git-commit) 
+    - [Git tag](#git-tag) 
+    - [Git log](#git-log) 
 
 ---
 
 <!-- git init -->
-![create-an-empty-git-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
+## <a id="create-empty-repository"></a> ![create-empty-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -27,7 +33,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git status -->
-![git-status](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png)
+## <a id="git-status"></a> ![git-status](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/09b16830daf385e596a8dbb4cb741334f3a3ec06/images/GIT%20STATUS.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -39,7 +45,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git add -->
-![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png)
+## <a id="git-add"></a> ![git-add](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/731249e7b065c208a7606d7b398ce2bac41d26b1/images/git-add.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -52,7 +58,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git rm -->
-![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
+## <a id="git-rm"></a> ![git-rm](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2d029aca4b8234e9bac1727223c84d3c6035a776/images/git-rm.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -66,7 +72,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git commit -->
-![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
+## <a id="git-commit"></a> ![git-commit](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/40f6b1ea94378e16c2cb3bf4650311dfe4578c10/images/git-commit.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -79,7 +85,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git tag -->
-![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
+## <a id="git-tag"></a> ![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/9f84915a653decde5acb2d4124e12ad06e610a05/images/git-tag.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -95,7 +101,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git log -->
-![git-tag](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
+## <a id="git-log"></a> ![git-log](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/94a989c252f295535c78e677fce6af6b9d2dd0e2/images/git-log.png)
 
 | commands | descriptions |
 |-----|-----|
