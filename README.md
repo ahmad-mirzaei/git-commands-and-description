@@ -5,13 +5,14 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
-- **Translated versions**
+- ### **Translated versions**
     - [Persian Version - فارسی](READMEir.md)
 
 ---
 
 <a id="go-to-the-command-list"></a>
-- **List of commands**
+
+- ### **List of commands**
     - [Create empty repository](#create-empty-repository) 
     - [Git status](#git-status) 
     - [Git add](#git-add) 
