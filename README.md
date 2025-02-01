@@ -48,7 +48,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git status -s` | View the summary of the current project file status |
 <br />
 
-👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#create-empty-repository) &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -64,7 +64,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git add *.AnExtension` -> `git add *.css` | it takes all of the files with the selected extension to the `staging area` |
 <br />
 
-👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-status) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list) 
 
 ---
 
@@ -81,7 +81,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git rm -rf --cached .` | it tkes all the files from `the local repository` to `working directory` |
 <br />
 
-👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-add) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -97,7 +97,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | it adds the last working directory changes to the last commit |
 <br />
 
-👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-rm) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -116,7 +116,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` | Searching in tags |
 <br />
 
-👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-commit) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -137,7 +137,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git log --author="user-name"` | it returns the commits of the selected author or user along with the date and time of their insertion |
 <br />
 
-👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-tag) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
