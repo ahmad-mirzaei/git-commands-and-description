@@ -113,4 +113,4 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 
-# ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
+## <a id="Updating"></a> ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
