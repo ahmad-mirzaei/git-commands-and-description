@@ -1,3 +1,5 @@
+<a id="go-to-the-command-list"></a>
+
 # Git Commands & Description
 
 ## Description
@@ -9,8 +11,6 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
     - [Persian Version - فارسی](READMEir.md)
 
 ---
-
-<a id="go-to-the-command-list"></a>
 
 - ### **List of commands**
     - [Create empty repository](#create-empty-repository) 
