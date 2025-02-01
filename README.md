@@ -32,7 +32,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git` | observe git commands |
 <br />
 
-[👆 go up](#go-to-the-command-list)
+👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -47,6 +47,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git status -s` | View the summary of the current project file status |
 <br />
 
+👆[list of commands](#go-to-the-command-list)
+
 ---
 
 <!-- git add -->
@@ -60,6 +62,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git add -A` | it takes all files and changes of the project to the staging area, just like the previous command |
 | `git add *.AnExtension` -> `git add *.css` | it takes all of the files with the selected extension to the `staging area` |
 <br />
+
+👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -76,6 +80,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git rm -rf --cached .` | it tkes all the files from `the local repository` to `working directory` |
 <br />
 
+👆[list of commands](#go-to-the-command-list)
+
 ---
 
 <!-- git commit -->
@@ -89,6 +95,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git commit --amend -m [message]` | Renaming the last commit |
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | it adds the last working directory changes to the last commit |
 <br />
+
+👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -106,6 +114,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git tag -f [tag name] [commit-hash]` -> `git tag -f v2.1.1 6d2ef95` | Removing a tag name from one comit and put the same name for another comite |
 | `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` | Searching in tags |
 <br />
+
+👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -125,6 +135,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git log --before="25-10-12"` | it returns the commits before a specified date |
 | `git log --author="user-name"` | it returns the commits of the selected author or user along with the date and time of their insertion |
 <br />
+
+👆[list of commands](#go-to-the-command-list)
 
 ---
 
