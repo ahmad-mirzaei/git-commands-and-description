@@ -66,7 +66,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git commit -m [message]` | it takes staging area changes to the repository with a related message |
-| `git commit -m [message]` | it takes the files that are already created in the project (and the files which are chainging) directly to the repository;  But if a file is newly created, it must first be added to the staging area and then added to the repository with the suitable commit <br /> `new file --> git add "file name" --> git commit -m "message"` <br /> `modified file --> git commit -am "message" --> git commit -a -m "message"`|
+| `git commit -am [message]` or `git commit -a -m [message]` | it takes the files that are already created in the project (and the files which are chainging) directly to the repository;  But if a file is newly created, it must first be added to the staging area and then added to the repository with the suitable commit <br /> `new file --> git add "file name" --> git commit -m "message"` <br /> `modified file --> git commit -am "message" --> git commit -a -m "message"`|
 | `git commit --amend -m [message]` | Renaming the last commit |
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | it adds the last working directory changes to the last commit |
 <br />
