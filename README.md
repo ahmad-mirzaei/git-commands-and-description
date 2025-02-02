@@ -168,7 +168,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git show` | Viewing all changes in the latest commit |
-| `` |  |
+| `git show [commit-hash]` | Viewing the changes in the specific commit using its commit hash |
 | `` |  |
 | `` |  |
 <br />
