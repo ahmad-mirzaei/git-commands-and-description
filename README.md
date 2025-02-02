@@ -163,7 +163,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 <!-- git show -->
 ## <a id="git-show"></a>
-![git-show]()
+![git-show](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/42834c805f3cb89302e3e0d94652766b4d0a6087/images/git-show.png)
 
 | commands | descriptions |
 |-----|-----|
