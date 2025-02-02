@@ -150,8 +150,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |-----|-----|
 | `git blame [file name]` | Viewing the `author's name` of the codes in the file, the date of entry, and the commit time |
 | `git blame -e [file name]` | Viewing the `author's email` of the codes in the file, the date of entry, and the commit time |
-| `git blame [file name] -L [start-line]` | Viewing the author's details of the code in a file, from one line to another |
-| `` |  |
+| `git blame [file name] -L [start-line],[end-line]` | Viewing the author's details of the code in a file, from one line to another |
+| `git blame -L [start-line],[end-line] [file-name]` | It is similar to the previous command with a slight rearrangement of the instructions |
 <br />
 
 👈[previous topic](#git-tag) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
