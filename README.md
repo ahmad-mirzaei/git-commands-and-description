@@ -144,7 +144,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 <!-- git blame -->
 ## <a id="git-blame"></a>
-![git-blame]()
+![git-blame](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a05680cf6bd592387e68299797be47dc6add29/images/git-blame.png)
 
 | commands | descriptions |
 |-----|-----|
