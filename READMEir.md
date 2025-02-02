@@ -25,6 +25,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     - [Git blame](#git-blame) 
     - [Git show](#git-show) 
     - [Git config](#git-config) 
+    - [Git branch](#git-branch) 
 
 ---
 
@@ -200,9 +201,27 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6b54be5ba9a395f603ec67c3020dfe950f1c5a49/images/git-branch.png">
-</div>
+<!-- git branch -->
+## <a id="git-branch"></a>
+![git-branch](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6b54be5ba9a395f603ec67c3020dfe950f1c5a49/images/git-branch.png)
+
+| دستورات | توضیحات |
+|-----|-----:|
+| `git branch` | نام برنچ ها یا شاخه های پروژه، و برنچی که درون آن قرار داریم را بر میگرداند |
+| `git branch -a` | لیست **تمام** برنچ ها را اعم از لوکال و ریموت بر می گرداند |
+| `git branch origin --delete [branch-name]` | برای حذف برنچ ریموت استفاده می شود |
+| `git branch [new-branch]` | ایجاد یک برنچ یا شاخه ی جدید |
+| `git switch [branch-name]` | سوئیچ کردن یا جابه جا شدن از یک برنچ به برنچ دیگر |
+| `git switch -c [new-branch-name]` | ساخت برنچ جدید و سوئیچ کردن در آن برنچ در لحظه |
+| `git branch -d [branch-name]` | برای حذف برنچی استفاده می شود که پس از ساخت هیچ تغییراتی درون آن صورت نگرفته و بلافاصله بخواهیم آن را حذف کنیم. اما اگر فایلی ساخته شد و کامیتی برای آن فایل در نظر گرفته شد، بعد از اجرای این دستور ما را راهنمایی می کند که برای حذف برنچ، از حرف D بزرگ استفاده کنید  |
+| `git branch -D [branch-name]` | برای حذف شاخه یا برنچ مورد نظر استفاده می شود که در آن برنچ تغییرات و کامیت زده شده است <br /> نباید برای حذف یک برنچ، درون خود آن برنچ باشیم؛ بلکه باید به برنچی دیگر سوئیچ کرده، سپس اقدام به حذف برنچ قبلی نماییم |
+| `git branch -m [new-name]` or `git branch -m [branch-name] [new-name]` | تغییر نام برنچ مورد نظر <br /> ز روش دوم زمانی استفاده می شود که در یک برنچ دیگر باشیم (مثلاً master) و بخواهیم نام یک برنچ دیگر (مثلاً second_branch) را تغییر دهیم که دیگر نیازی به سوئیچ کردن در برنچی که میخواهیم نام آن را تغییر دهیم، نیست |
+<br />
+
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-config)👈 
+
+---
+
 
 ### `git branch` :
 <p align="right">نام <b>برنچ ها یا شاخه های پروژه</b>، <b>و برنچی که درون آن قرار داریم</b> را بر میگرداند</p>
