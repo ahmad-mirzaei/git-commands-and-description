@@ -20,6 +20,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
     - [Git commit](#git-commit) 
     - [Git tag](#git-tag) 
     - [Git log](#git-log) 
+    - [Git blame](#git-blame) 
 
 ---
 
@@ -154,7 +155,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git blame -L [start-line],[end-line] [file-name]` | It is similar to the previous command with a slight rearrangement of the instructions |
 <br />
 
-👈[previous topic](#git-tag) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-log) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
