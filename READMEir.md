@@ -162,42 +162,6 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<!-- git blame -->
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a05680cf6bd592387e68299797be47dc6add29/images/git-blame.png">
-</div>
-
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git blame [file name]</code></td>
-            <td align="right"><p>یک زمانی میخواهیم بدانیم که کدهای یک قسمت پروژه، مثلاً در یک فایل خاص، توسط چه کسی نوشته شده اند که برای این کار، از این دستور استفاده می کنیم که <b>نام نویسنده</b> به همراه تاریخ درج و ساعت کامیت را نمایش میدهد</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git blame -e [file name]</code> -> <code>git blame -e python.py</code></td>
-            <td align="right"><p>یک زمانی میخواهیم بدانیم که کدهای یک قسمت پروژه، مثلاً در یک فایل خاص، توسط چه کسی نوشته شده اند که برای این کار، از این دستور استفاده می کنیم که <b>ایمیل نویسنده</b> به همراه تاریخ درج و ساعت کامیت را نمایش میدهد</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git blame [file name] -L [start-line],[end-line]</code> -> <code>git blame python.py -L 10,20</code></td>
-            <td align="right"><p>زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git blame -L start-line,end-line [file-name]</code></td>
-            <td align="right"><p>زمانی که بخواهیم بفهمیم کدهای مثلا از خط 10 تا 20 را در فلان فایل چه کسی نوشته است از این دستور استفاده می کنیم  که در خروجی، نام، تاریخ درج کامیت و ساعت آن را مشاهده خواهیم کرد</p></td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
-
-<!-- ---------------------------------------------------------------------------------------------------------- -->
-
 <!-- git show -->
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/42834c805f3cb89302e3e0d94652766b4d0a6087/images/git-show.png">
