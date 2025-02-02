@@ -12,24 +12,20 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
-| شماره | عنوان |
-|:-----:|:-----:|
-| 1 | [Create empty repository](#create-empty-repository) |
-| 2 | [Git status](#git-status) |
-| 3 | [Git add](#git-add) |
-| 4 | [Git rm](#git-rm) |
-| 5 | [Git commit](#git-commit) |
+### **List of commands**
 
-- ### **List of commands**
-    - [Create empty repository](#create-empty-repository) 
-    - [Git status](#git-status) 
-    - [Git add](#git-add) 
-    - [Git rm](#git-rm) 
-    - [Git commit](#git-commit) 
-    - [Git tag](#git-tag) 
-    - [Git log](#git-log) 
-    - [Git blame](#git-blame) 
-    - [Git show](#git-show) 
+| Row | Title | Row | Title | Row | Title |
+|:-----:|-----|:-----:|-----|:-----:|-----|
+| 1 | [Create empty repository](#create-empty-repository) | 11 |  | 21 |  |
+| 2 | [Git status](#git-status) | 12 |  | 22 |  |
+| 3 | [Git add](#git-add) | 13 |  | 23 |  |
+| 4 | [Git rm](#git-rm) | 14 |  | 24 |  |
+| 5 | [Git commit](#git-commit) | 15 |  | 25 |  |
+| 6 | [Git tag](#git-tag) | 16 |  | 26 |  |
+| 7 | [Git log](#git-log) | 17 |  | 27 |  |
+| 8 | [Git blame](#git-blame) | 18 |  | 28 |  |
+| 9 | [Git show](#git-show) | 19 |  | 29 |  |
+| 10 |  | 20 |  | 30 |  |
 
 ---
 
