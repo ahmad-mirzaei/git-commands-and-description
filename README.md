@@ -16,7 +16,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | Row | Title | Row | Title | Row | Title |
 |:-----:|-----|:-----:|-----|:-----:|-----|
-| 1 | [Create empty repository](#create-empty-repository) | 11 |  | 21 |  |
+| 1 | [Git init](#git-init) | 11 |  | 21 |  |
 | 2 | [Git status](#git-status) | 12 |  | 22 |  |
 | 3 | [Git add](#git-add) | 13 |  | 23 |  |
 | 4 | [Git rm](#git-rm) | 14 |  | 24 |  |
@@ -30,8 +30,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ---
 
 <!-- git init -->
-## <a id="create-empty-repository"></a>
-![create-empty-repository](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
+## <a id="git-init"></a>
+![git-init](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/3624c3706fd890ef4a8584d9e45f1d1651a27bb3/images/create-an-empty-git-repository.png)
 
 | commands | descriptions |
 |-----|-----|
@@ -54,7 +54,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git status -s` | View the summary of the current project file status |
 <br />
 
-👈[previous topic](#create-empty-repository) &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-init) &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
 
 ---
 
