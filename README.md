@@ -148,8 +148,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
-| `git blame [file name]` | Viewing the author's name of the codes in the file, the date of entry, and the commit time |
-| `` |  |
+| `git blame [file name]` | Viewing the `author's name` of the codes in the file, the date of entry, and the commit time |
+| `git blame -e [file name]` | Viewing the `author's email` of the codes in the file, the date of entry, and the commit time |
 | `` |  |
 | `` |  |
 <br />
