@@ -24,6 +24,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     - [Git log](#git-log) 
     - [Git blame](#git-blame) 
     - [Git show](#git-show) 
+    - [Git config](#git-config) 
 
 ---
 
@@ -181,52 +182,23 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 ---
 
 <!-- git config -->
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a93a088f87ae7106cffd3f9f45214ae88ec6fd/images/git-config.png">
-</div>
+## <a id="git-config"></a>
+![git-config](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a93a088f87ae7106cffd3f9f45214ae88ec6fd/images/git-config.png)
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git config --list</code></td>
-            <td align="right"><p>لیستی از تمام تنظیمات پیکر بندی را که در حال حاضر روی نسخه ی نصبی گیت شما وجود دارد را نمایش می دهد؛ مثل تنظیمات محلی، تنظیمات سراسری و تنظیمات سیستم</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git config --local alias.[name] [command-name]</code> -> <code>`git config --local alias.com commit</code></td>
-            <td align="right"><p>با استفاده از این دستور می توانیم برای دستورات گیت <b>درون لوکال</b> خودمان، اسامی کوتاه تر و خلاصه انتخاب کنیم که در این دستور، کامند commit را به com خلاصه کرده ایم</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git config --global alias.com commit</code></td>
-            <td align="right"><p>اگر بخواهیم از یک نام مستعار در <b>تمامی پروژه هایمان</b> استفاده کنیم به جای کلمه ی local از کلمه ی global استفاده میکنیم</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git config --global user.name [your-name]</code> & <code>git config --global user.email [your-email]</code></td>
-            <td align="right"><p>تنظیم نام کاربری و یا ایمیل کاربری برای <b>تمامی پروژه ها</b></p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git config --global user.name</code> & <code>git config --global user.email</code></td>
-            <td align="right"><p>مشاهده ی نام یا ایمیل کاربری که برای تمام پروژه ها انتخاب کرده ایم</p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git config user.name [your-name]</code> & <code>git config user.email [your-email]</code></td>
-            <td align="right"><p>تنظیم نام کاربری و یا ایمیل کاربری برای <b>یک پروژه</b></p></td>
-        </tr>
-        <tr>
-            <td align="left"><code>git config user.name</code> or <code>git config user.email</code></td>
-            <td align="right"><p>مشاهده ی نام یا ایمیل کاربری که برای یک پروژه انتخاب کرده ایم</p></td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
+| دستورات | توضیحات |
+|-----|-----:|
+| `git config --list` | لیستی از تمام تنظیمات پیکر بندی را که در حال حاضر روی نسخه ی نصبی گیت شما وجود دارد را نمایش می دهد؛ مثل تنظیمات محلی، تنظیمات سراسری و تنظیمات سیستم |
+| `git config --local alias.[name] [command-name]` -> `git config --local alias.com commit` | با استفاده از این دستور می توانیم برای دستورات گیت درون لوکال خودمان، اسامی کوتاه تر و خلاصه انتخاب کنیم که در این دستور، کامند commit را به com خلاصه کرده ایم |
+| `git config --global alias.com commit` | اگر بخواهیم از یک نام مستعار در تمامی پروژه هایمان استفاده کنیم به جای کلمه ی لوکال از کلمه ی گلوبال استفاده میکنیم |
+| `git config --global user.name [your-name]` & `git config --global user.email [your-email]` | تنظیم نام کاربری و ایمیل کاربری برای تمامی پروژه ها |
+| `git config --global user.name` & `git config --global user.email` | مشاهده ی نام یا ایمیل کاربری که برای تمام پروژه ها انتخاب کرده ایم |
+| `git config user.name [your-name]` & `git config user.email [your-email]` | تنظیم نام کاربری و یا ایمیل کاربری برای یک پروژه |
+| `git config user.name` or `git config user.email` | مشاهده ی نام یا ایمیل کاربری که برای یک پروژه انتخاب کرده ایم |
+<br />
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-show)👈 
+
+---
 
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6b54be5ba9a395f603ec67c3020dfe950f1c5a49/images/git-branch.png">
