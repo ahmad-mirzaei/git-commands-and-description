@@ -28,6 +28,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     - [Git branch](#git-branch) 
     - [Git merge](#git-merge) 
     - [Git stash](#git-stash) 
+    - [Git diff](#git-diff) 
 
 ---
 
@@ -260,54 +261,24 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/eb735e7ac6b7f4d16fab33342ca3296072d8f8cc/images/git-diff.png">
-</div>
+<!-- git diff -->
+## <a id="git-diff"></a>
+![git-diff](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/eb735e7ac6b7f4d16fab33342ca3296072d8f8cc/images/git-diff.png)
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>دستورات</th>
-            <th>توضیحات</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left"><code>git diff</code></td>
-            <td align="right">مشاهده یا مقایسه ی تغییرات ورکینگ دایرکتوری با استیجینگ</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git diff --name-only [branch-name]</code></td>
-            <td align="right">مشاهده ی فایل هایی که پس از یک کامیت خاص، تغییر کرده اند</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git diff --staged</code></td>
-            <td align="right"> مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی استیجینگ</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git diff head</code> or <code>[HEAD]</code></td>
-            <td align="right">مقایسه ی آخرین کامیت با ورکینگ دایرکتوری</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git diff [first-hash-commit] [second-hash-commit]</code> -> <code>git diff 28344dc 85d9a5b</code> or <code>git diff 28344dc..85d9a5b</code></td>
-            <td align="right">مشاهده یا مقایسه ی تغییرات دو کامیت با یک دیگر</td>
-        </tr> 
-        <tr>
-            <td align="left"><code>git diff 28344dc..85d9a5b [file-name]</code></td>
-            <td align="right">مشاهده یا مقایسه ی دو کامیت در یک فایل</td>
-        </tr> 
-        <tr>
-            <td align="left"><code>git diff [first-branch] [second-branch]</code> or <code>git diff [first-branch]..[second-branch]</code></td>
-            <td align="right">مشاهده یا مقایسه ی تغییرات دو برنچ <b>قبل از مرج شدن</b> با هم</td>
-        </tr>
-        <tr>
-            <td align="left"><code>git diff HEAD^ HEAD</code></td>
-            <td align="right">مشاهده ی تفاوت بین نسخه ی فعلی و آخرین نسخه</td>
-        </tr>
-    </tbody>
-</table>
-<br>
-<hr>
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+| توضیحات | دستورات | 
+|-----|-----:|
+| `git diff` | مشاهده یا مقایسه ی تغییرات ورکینگ دایرکتوری با استیجینگ |
+| `git diff --name-only [branch-name]` | مشاهده ی فایل هایی که پس از یک کامیت خاص، تغییر کرده اند |
+| `git diff --staged` | مشاهده یا مقایسه ی آخرین کامیت به همراه تغییرات در مرحله ی استیجینگ |
+| `git diff head or [HEAD]` | مقایسه ی آخرین کامیت با ورکینگ دایرکتوری |
+| `git diff [first-hash-commit] [second-hash-commit]` -> `git diff 28344dc 85d9a5b` or `git diff 28344dc..85d9a5b` | مشاهده یا مقایسه ی تغییرات دو کامیت با یک دیگر |
+| `git diff 28344dc..85d9a5b [file-name]` | مشاهده یا مقایسه ی دو کامیت در یک فایل |
+| `git diff [first-branch] [second-branch]` or `git diff [first-branch]..[second-branch]` | مشاهده یا مقایسه ی تغییرات دو برنچ قبل از مرج شدن با هم |
+| `git diff HEAD^ HEAD` | مشاهده ی تفاوت بین نسخه ی فعلی و آخرین نسخه |
+<br />
+
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-stash)👈 
+
+---
 
 ![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
