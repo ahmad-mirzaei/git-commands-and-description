@@ -26,6 +26,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     - [Git show](#git-show) 
     - [Git config](#git-config) 
     - [Git branch](#git-branch) 
+    - [Git merge](#git-merge) 
 
 ---
 
@@ -222,21 +223,34 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<div align="center">
-  <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6e23a417bd29442ee7d4e34cb5d9894b891adbf3/images/git-merge.png">
-</div>
+<!-- git merge -->
+## <a id="git-merge"></a>
+![git-merge](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6e23a417bd29442ee7d4e34cb5d9894b891adbf3/images/git-merge.png)
 
-### `git merge <branch-name>` :
-<p align="right">الحاق برنچ فرعی به برنچ اصلی</p>
-<p align="right">برای مرج کردن باید در برنچ اصلی یا master باشیم؛ و پس از اتمام عملیات باید برنچ فرعی را حذف کنیم</p>
-<br>
+| توضیحات | دستورات | 
+|-----|-----:|
+| `git merge [branch-name]` | الحاق برنچ فرعی به برنچ اصلی <br /> برای مرج کردن باید در برنچ اصلی باشیم؛ و پس از اتمام عملیات باید برنچ فرعی را حذف کنیم |
+| `git merge [source-branch] [target-branch]` | از این دستور زمانی استفاده می کنیم که بخواهیم بدون سوئیچ کردن به شاخه ی اصلی عملیات مرج را انجام دهیم |
+<br />
 
-### `git merge <source-branch> <target-branch>` -> `git merge second main` :
-<p align="right">از این دستور زمانی استفاده می کنیم که بخواهیم بدون سوئیچ کردن به شاخه ی اصلی عملیات مرج را انجام دهیم</p>
-<br>
-<hr>
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-branch)👈 
 
-<!-- ---------------------------------------------------------------------------------------------------------- -->
+---
+
+<!-- git stash -->
+<!-- ## <a id="git-stash"></a>
+![git-stash]()
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-merge)👈 
+
+--- -->
 
 <div align="center">
   <img src="https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/b2073a1db16d850b1ba9047c91852903b9134911/images/git-stash.png">
