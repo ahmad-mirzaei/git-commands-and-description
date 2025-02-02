@@ -12,6 +12,14 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+| شماره | عنوان |
+|:-----:|:-----:|
+| 1 | [Create empty repository](#create-empty-repository) |
+| 2 | [Git status](#git-status) |
+| 3 | [Git add](#git-add) |
+| 4 | [Git rm](#git-rm) |
+| 5 | [Git commit](#git-commit) |
+
 - ### **List of commands**
     - [Create empty repository](#create-empty-repository) 
     - [Git status](#git-status) 
