@@ -27,6 +27,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
     - [Git config](#git-config) 
     - [Git branch](#git-branch) 
     - [Git merge](#git-merge) 
+    - [Git stash](#git-stash) 
 
 ---
 
