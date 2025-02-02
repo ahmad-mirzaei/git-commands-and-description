@@ -141,4 +141,21 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+
+<!-- git blame -->
+## <a id="git-blame"></a>
+![git-blame]()
+
+| commands | descriptions |
+|-----|-----|
+| `git blame [file name]` | Viewing the author's name of the codes in the file, the date of entry, and the commit time |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+👈[previous topic](#git-tag) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
