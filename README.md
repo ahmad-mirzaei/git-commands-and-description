@@ -216,7 +216,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git branch -m [new-name]` or `git branch -m [branch-name] [new-name]` | Renaming the desired branch. The second method is used when, for example, we are on branch A and want to rename branch B. In this case, there's no need to switch to branch B |
 <br />
 
-👈[previous topic](#git-show) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-config) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
