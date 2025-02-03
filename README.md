@@ -17,7 +17,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | Row | Title | Row | Title | Row | Title |
 |:-----:|-----|:-----:|-----|:-----:|-----|
 | 1 | [Git init](#git-init) | 11 | [Git branch](#git-branch) | 21 |  |
-| 2 | [Git status](#git-status) | 12 | `Updating...` ⟲ | 22 |  |
+| 2 | [Git status](#git-status) | 12 | `Updating...` | 22 |  |
 | 3 | [Git add](#git-add) | 13 |  | 23 |  |
 | 4 | [Git rm](#git-rm) | 14 |  | 24 |  |
 | 5 | [Git commit](#git-commit) | 15 |  | 25 |  |

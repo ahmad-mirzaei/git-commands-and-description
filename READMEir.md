@@ -14,21 +14,20 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 <a id="go-to-the-command-list"></a>
 
-- ### **فهرست دستورات**
-    - [Create empty repository](#create-empty-repository) 
-    - [Git status](#git-status) 
-    - [Git add](#git-add) 
-    - [Git rm](#git-rm) 
-    - [Git commit](#git-commit) 
-    - [Git tag](#git-tag) 
-    - [Git log](#git-log) 
-    - [Git blame](#git-blame) 
-    - [Git show](#git-show) 
-    - [Git config](#git-config) 
-    - [Git branch](#git-branch) 
-    - [Git merge](#git-merge) 
-    - [Git stash](#git-stash) 
-    - [Git diff](#git-diff) 
+### **فهرست دستورات**
+
+| ردیف | عنوان | ردیف | عنوان | ردیف | عنوان |
+|:-----:|-----|:-----:|-----|:-----:|-----|
+| 1 | [Git init](#git-init) | 11 | [Git branch](#git-branch) | 21 |  |
+| 2 | [Git status](#git-status) | 12 | [Git merge](#git-merge) | 22 |  |
+| 3 | [Git add](#git-add) | 13 | [Git stash](#git-stash) | 23 |  |
+| 4 | [Git rm](#git-rm) | 14 | [Git diff](#git-diff) | 24 |  |
+| 5 | [Git commit](#git-commit) | 15 | `در حال بروز رسانی...` | 25 |  |
+| 6 | [Git tag](#git-tag) | 16 |  | 26 |  |
+| 7 | [Git log](#git-log) | 17 |  | 27 |  |
+| 8 | [Git blame](#git-blame) | 18 |  | 28 |  |
+| 9 | [Git show](#git-show) | 19 |  | 29 |  |
+| 10 | [Git config](#git-config) | 20 |  | 30 |  |
 
 ---
 
