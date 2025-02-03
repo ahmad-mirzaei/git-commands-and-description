@@ -22,7 +22,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | 2 | [Satus](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
 | 3 | [Add](#git-add) | 13 | [Stash](#git-stash) | 23 |  |
 | 4 | [Rm](#git-rm) | 14 | [Diff](#git-diff) | 24 |  |
-| 5 | [Commit](#git-commit) | 15 | `در حال بروز رسانی...` | 25 |  |
+| 5 | [Commit](#git-commit) | 15 | `...در حال بروز رسانی` | 25 |  |
 | 6 | [Tag](#git-tag) | 16 |  | 26 |  |
 | 7 | [Log](#git-log) | 17 |  | 27 |  |
 | 8 | [Blame](#git-blame) | 18 |  | 28 |  |

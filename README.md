@@ -15,17 +15,17 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ### **List of commands**
 
 | Row | Title | Row | Title | Row | Title |
-|:-----:|-----|:-----:|-----|:-----:|-----|
-| 1 | [Git init](#git-init) | 11 | [Git branch](#git-branch) | 21 |  |
-| 2 | [Git status](#git-status) | 12 | `Updating...` | 22 |  |
-| 3 | [Git add](#git-add) | 13 |  | 23 |  |
-| 4 | [Git rm](#git-rm) | 14 |  | 24 |  |
-| 5 | [Git commit](#git-commit) | 15 |  | 25 |  |
-| 6 | [Git tag](#git-tag) | 16 |  | 26 |  |
-| 7 | [Git log](#git-log) | 17 |  | 27 |  |
-| 8 | [Git blame](#git-blame) | 18 |  | 28 |  |
-| 9 | [Git show](#git-show) | 19 |  | 29 |  |
-| 10 | [Git config](#git-config) | 20 |  | 30 |  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1 | [Init](#git-init) | 11 | [Branch](#git-branch) | 21 |  |
+| 2 | [Status](#git-status) | 12 | `Updating...` | 22 |  |
+| 3 | [Add](#git-add) | 13 |  | 23 |  |
+| 4 | [Rm](#git-rm) | 14 |  | 24 |  |
+| 5 | [Commit](#git-commit) | 15 |  | 25 |  |
+| 6 | [Tag](#git-tag) | 16 |  | 26 |  |
+| 7 | [Log](#git-log) | 17 |  | 27 |  |
+| 8 | [Blame](#git-blame) | 18 |  | 28 |  |
+| 9 | [Show](#git-show) | 19 |  | 29 |  |
+| 10 | [Config](#git-config) | 20 |  | 30 |  |
 
 ---
 
