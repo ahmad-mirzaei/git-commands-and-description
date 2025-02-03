@@ -25,7 +25,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | 7 | [Git log](#git-log) | 17 |  | 27 |  |
 | 8 | [Git blame](#git-blame) | 18 |  | 28 |  |
 | 9 | [Git show](#git-show) | 19 |  | 29 |  |
-| 10 |  | 20 |  | 30 |  |
+| 10 | [Git config](#git-config) | 20 |  | 30 |  |
 
 ---
 
@@ -163,7 +163,6 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
-
 <!-- git show -->
 ## <a id="git-show"></a>
 ![git-show](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/42834c805f3cb89302e3e0d94652766b4d0a6087/images/git-show.png)
@@ -180,5 +179,21 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 👈[previous topic](#git-blame) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
+
+<!-- git config -->
+## <a id="git-config"></a>
+![git-config](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/23a93a088f87ae7106cffd3f9f45214ae88ec6fd/images/git-config.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git show` | Viewing all changes in the latest commit |
+| `git show [commit-hash]` | Viewing the changes in the specific commit using its commit hash |
+| `git show [commit-hash] --stat` | It displays the changes made in the specific commit in a summarized form along with the author's details |
+| `git show [commit-hash] --path` | Viewing the actual differences made in the specific commit |
+| `git show [tag name]` | Viewing the changes within each tag |
+<br />
+
+👈[previous topic](#git-blame) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+
 
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
