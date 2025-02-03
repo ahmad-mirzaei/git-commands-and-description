@@ -212,7 +212,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git switch [branch-name]` | Switching from one branch to another |
 | `git switch -c [new-branch-name]` | Creating a new branch and switching to it |
 | `git branch -d [branch-name]` | Deleting a branch that has had no changes made to it after creation |
-| `` |  |
+| `git branch -D [branch-name]` | It is used to delete a branch where changes and commits have been made. You should not be on the branch you want to delete; instead, you need to switch to another branch and then delete the previous branch |
 | `` |  |
 <br />
 
