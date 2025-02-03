@@ -187,14 +187,15 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git config --list` | It displays a list of all the configuration settings currently present in your installed version of Git, such as local settings, global settings, and system settings |
-| ``git config --local alias.[name] [command-name]` -> `git config --local alias.com commit`` | With this command, we can choose shorter and more concise names for Git commands in our local environment |
+| `git config --local alias.[name] [command-name]` -> `git config --local alias.com commit` | With this command, we can choose shorter and more concise names for Git commands in our local environment |
 | `git config --global alias.com commit` | If we want to use an alias across all our projects, we use the word `global` instead of `local`, like in this command where we have shortened **`commit`** to **`com`** |
-| `git config --global user.name [your-name]` & `git config --global user.email [your-email]` | Setting the username and email for all projects |
-| `` |  |
+| `git config --global user.name [your-name]` & `git config --global user.email [your-email]` | Setting the username and email for `all projects` |
+| `git config --global user.name` & `git config --global user.email` | Viewing the username or email that we have selected for `all projects` |
 | `` |  |
 <br />
 
-👈[previous topic](#git-blame) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous topic](#git-show) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
+---
 
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
