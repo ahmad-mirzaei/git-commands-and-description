@@ -191,7 +191,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git config --global alias.com commit` | If we want to use an alias across all our projects, we use the word `global` instead of `local`, like in this command where we have shortened **`commit`** to **`com`** |
 | `git config --global user.name [your-name]` & `git config --global user.email [your-email]` | Setting the username and email for `all projects` |
 | `git config --global user.name` & `git config --global user.email` | Viewing the username or email that we have selected for `all projects` |
-| `` |  |
+| `git config user.name [your-name]` & `git config user.email [your-email]` | Setting the username or email for `a specific project` |
+| `git config user.name` or git `config user.email` | Viewing the username or email that we have selected for a specific project |
 <br />
 
 👈[previous topic](#git-show) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
