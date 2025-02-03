@@ -186,11 +186,11 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
-| `git show` | Viewing all changes in the latest commit |
-| `git show [commit-hash]` | Viewing the changes in the specific commit using its commit hash |
-| `git show [commit-hash] --stat` | It displays the changes made in the specific commit in a summarized form along with the author's details |
-| `git show [commit-hash] --path` | Viewing the actual differences made in the specific commit |
-| `git show [tag name]` | Viewing the changes within each tag |
+| `git config --list` | It displays a list of all the configuration settings currently present in your installed version of Git, such as local settings, global settings, and system settings |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
 <br />
 
 👈[previous topic](#git-blame) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
