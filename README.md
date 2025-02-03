@@ -211,7 +211,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git branch [new-branch]` | Creating a new branch |
 | `git switch [branch-name]` | Switching from one branch to another |
 | `git switch -c [new-branch-name]` | Creating a new branch and switching to it |
-| `` |  |
+| `git branch -d [branch-name]` | Deleting a branch that has had no changes made to it after creation |
 | `` |  |
 | `` |  |
 <br />
