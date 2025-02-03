@@ -208,7 +208,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git branch` | Viewing the names of the project's branches and the branch we are currently on |
 | `git branch -a` | Viewing the list of all branches, including both local and remote branches |
 | `git branch origin --delete [branch-name]` | Deleting a remote branch |
-| `` |  |
+| `git branch [new-branch]` | Creating a new branch |
 | `` |  |
 | `` |  |
 | `` |  |
