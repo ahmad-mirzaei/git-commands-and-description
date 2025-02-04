@@ -19,8 +19,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | 1 | [Init](#git-init) | 11 | [Branch](#git-branch) | 21 |  |
 | 2 | [Status](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
 | 3 | [Add](#git-add) | 13 | [Stash](#git-stash) | 23 |  |
-| 4 | [Rm](#git-rm) | 14 | `Updating...` | 24 |  |
-| 5 | [Commit](#git-commit) | 15 |  | 25 |  |
+| 4 | [Rm](#git-rm) | 14 | [Diff](#git-diff) | 24 |  |
+| 5 | [Commit](#git-commit) | 15 | `Updating...` | 25 |  |
 | 6 | [Tag](#git-tag) | 16 |  | 26 |  |
 | 7 | [Log](#git-log) | 17 |  | 27 |  |
 | 8 | [Blame](#git-blame) | 18 |  | 28 |  |
@@ -253,6 +253,19 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 👈[previous topic](#git-merge) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+
+---
+
+<!-- git diff -->
+## <a id="git-diff"></a>
+![git-diff](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/eb735e7ac6b7f4d16fab33342ca3296072d8f8cc/images/git-diff.png)
+
+| commands | descriptions |
+|-----|-----|
+| `` |  |
+<br />
+
+👈[previous topic](#git-stash) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
