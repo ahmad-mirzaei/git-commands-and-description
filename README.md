@@ -276,4 +276,18 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- git checkout -->
+## <a id="git-checkout"></a>
+![git-checkout](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/168ba498fb4fe7ff88a4d5cfc6dd530e7fdea94d/images/git-checkout.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git checkout [hash-commit]` | When we want to bring the changes of the project to a specific commit in the past, we use this command. In this case, we say the `HEAD is detached` |
+| `` |  |
+<br />
+
+👈[previous topic](#git-diff) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
