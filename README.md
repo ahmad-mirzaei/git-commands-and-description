@@ -283,7 +283,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git checkout [hash-commit]` | When we want to bring the changes of the project to a specific commit in the past, we use this command. In this case, we say the `HEAD is detached` |
-| `` |  |
+| `Updating...` | ... |
 <br />
 
 👈[previous topic](#git-diff) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
