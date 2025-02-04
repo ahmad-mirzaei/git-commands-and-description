@@ -244,7 +244,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git stash save [message]` | When using stash, you can provide a name or message to describe the changes being saved |
 | `git stash show` | Viewing General Information About a File That Has Been Stashed |
 | `git stash list` | Viewing the List of Stashes |
-| `` |  |
+| `git stash show stash@{1}` | Viewing the full changes of any stash using its index. |
 | `` |  |
 | `` |  |
 | `` |  |
