@@ -17,9 +17,9 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | Row | Title | Row | Title | Row | Title |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1 | [Init](#git-init) | 11 | [Branch](#git-branch) | 21 |  |
-| 2 | [Status](#git-status) | 12 | `Updating...` | 22 |  |
+| 2 | [Status](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
 | 3 | [Add](#git-add) | 13 |  | 23 |  |
-| 4 | [Rm](#git-rm) | 14 |  | 24 |  |
+| 4 | [Rm](#git-rm) | 14 | `Updating...` | 24 |  |
 | 5 | [Commit](#git-commit) | 15 |  | 25 |  |
 | 6 | [Tag](#git-tag) | 16 |  | 26 |  |
 | 7 | [Log](#git-log) | 17 |  | 27 |  |
@@ -217,6 +217,14 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 👈[previous topic](#git-config) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+
+---
+
+<!-- git merge -->
+## <a id="git-merge"></a>
+![git-merge](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6e23a417bd29442ee7d4e34cb5d9894b891adbf3/images/git-merge.png)
+
+
 
 ---
 
