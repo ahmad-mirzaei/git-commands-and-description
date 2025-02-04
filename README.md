@@ -18,7 +18,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1 | [Init](#git-init) | 11 | [Branch](#git-branch) | 21 |  |
 | 2 | [Status](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
-| 3 | [Add](#git-add) | 13 |  | 23 |  |
+| 3 | [Add](#git-add) | 13 | [ُStash](#git-stash) | 23 |  |
 | 4 | [Rm](#git-rm) | 14 | `Updating...` | 24 |  |
 | 5 | [Commit](#git-commit) | 15 |  | 25 |  |
 | 6 | [Tag](#git-tag) | 16 |  | 26 |  |
@@ -242,10 +242,15 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |-----|-----|
 | `git stash` or `git stash save` | You may want to make some changes in a branch that you plan to add to the project later. For this, we use stash, which acts as a holder or a draft |
 | `git stash save [message]` | When using stash, you can provide a name or message to describe the changes being saved |
+| `git stash show` | Viewing General Information About a File That Has Been Stashed |
 | `` |  |
 | `` |  |
 | `` |  |
 | `` |  |
+| `` |  |
+<br />
+
+👈[previous topic](#git-merge) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
