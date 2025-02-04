@@ -249,7 +249,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git stash pop` | It returns the last item in the stash |
 | `git stash apply` | It applies the changes from the selected stash to the project without removing it from the stash list |
 | `git stash drop stash@{index}` | Delete the specific stash |
-| `` |  |
+| `git stash clear` | Delete all stashes. |
 <br />
 
 👈[previous topic](#git-merge) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
