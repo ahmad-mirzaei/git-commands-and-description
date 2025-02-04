@@ -269,7 +269,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git diff [first-hash-commit] [second-hash-commit]` -> `git diff 28344dc 85d9a5b` or `git diff 28344dc..85d9a5b` | Viewing or comparing the changes between two commits |
 | `git diff 28344dc..85d9a5b [file-name]` | Viewing or comparing two commits in a file |
 | `git diff [first-branch] [second-branch]` or `git diff [first-branch]..[second-branch]` | Viewing or comparing the changes between two branches before they are merged |
-| `` |  |
+| `git diff HEAD^ HEAD` | Displaying the differences between the latest commit and the previous commit |
 <br />
 
 👈[previous topic](#git-stash) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
