@@ -246,6 +246,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git stash list` | Viewing the List of Stashes |
 | `git stash show stash@{index}` | Viewing the full changes of any stash using its index. |
 | `git stash show -p stash@{index}` | Viewing the changes of a specific stash in more detail |
+| `git stash pop` | It returns the last item in the stash |
+| `` |  |
 | `` |  |
 | `` |  |
 <br />
