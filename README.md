@@ -265,6 +265,9 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git diff` | Viewing or comparing `working directory` changes with `staging area` |
 | `git diff --name-only [branch-name]` | Viewing the names of files that have changed after a specific commit |
 | `git diff --staged` | Viewing or comparing the latest commit along with changes in the staging area |
+| `git diff head or [HEAD]` | Comparing the latest commit with the working directory |
+| `` |  |
+| `` |  |
 | `` |  |
 | `` |  |
 <br />
