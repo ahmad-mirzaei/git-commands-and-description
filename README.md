@@ -262,8 +262,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
-| `git diff` | Viewing or Comparing `Working Directory` Changes with `Staging area` |
-| `` |  |
+| `git diff` | Viewing or comparing `working directory` changes with `staging area` |
+| `git diff --name-only [branch-name]` | Viewing the names of files that have changed after a specific commit |
 | `` |  |
 | `` |  |
 | `` |  |
