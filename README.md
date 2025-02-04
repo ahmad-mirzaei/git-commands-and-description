@@ -248,7 +248,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git stash show -p stash@{index}` | Viewing the changes of a specific stash in more detail |
 | `git stash pop` | It returns the last item in the stash |
 | `git stash apply` | It applies the changes from the selected stash to the project without removing it from the stash list |
-| `` |  |
+| `git stash drop stash@{index}` | Delete the specific stash |
 | `` |  |
 <br />
 
