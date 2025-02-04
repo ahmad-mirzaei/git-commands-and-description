@@ -267,8 +267,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git diff --staged` | Viewing or comparing the latest commit along with changes in the staging area |
 | `git diff head or [HEAD]` | Comparing the latest commit with the working directory |
 | `git diff [first-hash-commit] [second-hash-commit]` -> `git diff 28344dc 85d9a5b` or `git diff 28344dc..85d9a5b` | Viewing or comparing the changes between two commits |
-| `` |  |
-| `` |  |
+| `git diff 28344dc..85d9a5b [file-name]` | Viewing or comparing two commits in a file |
+| `git diff [first-branch] [second-branch]` or `git diff [first-branch]..[second-branch]` | Viewing or comparing the changes between two branches before they are merged |
 | `` |  |
 <br />
 
