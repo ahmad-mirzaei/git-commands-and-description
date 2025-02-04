@@ -238,7 +238,14 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ## <a id="git-stash"></a>
 ![git-stash](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/b2073a1db16d850b1ba9047c91852903b9134911/images/git-stash.png)
 
-
+| commands | descriptions |
+|-----|-----|
+| `git stash` or `git stash save` | You may want to make some changes in a branch that you plan to add to the project later. For this, we use stash, which acts as a holder or a draft |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
 
 ---
 
