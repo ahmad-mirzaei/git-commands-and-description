@@ -227,7 +227,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git merge [branch-name]` | Merging a feature branch into the main branch; to perform the merge, you need to be on the main branch, and after completing the operation, you should delete the feature branch |
-| `` |  |
+| `git merge [source-branch] [target-branch]` | Merging without Switching to the Main Branch |
 <br />
 
 👈[previous topic](#git-branch) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
