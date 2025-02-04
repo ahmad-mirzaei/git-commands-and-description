@@ -224,7 +224,13 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 ## <a id="git-merge"></a>
 ![git-merge](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/6e23a417bd29442ee7d4e34cb5d9894b891adbf3/images/git-merge.png)
 
+| commands | descriptions |
+|-----|-----|
+| `git merge [branch-name]` | Merging a feature branch into the main branch; to perform the merge, you need to be on the main branch, and after completing the operation, you should delete the feature branch |
+| `` |  |
+<br />
 
+👈[previous topic](#git-branch) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
