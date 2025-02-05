@@ -288,9 +288,9 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git checkout [hash-commit]` | When we want to bring the changes of the project to a specific commit in the past, we use this command. In this case, we say the `HEAD is detached` |
 | `git checkout -- [file-name]` | This command cancels the changes made to the files in the working directory and restores them to the last commit state |
 | `git checkout [hash-commit] [file-name]` | Reverting the changes of a specific file to a commit using its commit hash |
-| `git checkout HEAD~[number]` -> `git checkout HEAD~5` | Going back to a few commits earlier by specifying the number of moves from HEAD to previous commits <br /> Discard working directory changes |
-| `git checkout HEAD [file-name]` | Reverting the current changes of a file to the last commit made <br /> Discarding all changes in the working directory |
-| `` |  |
+| `git checkout HEAD~[number]` -> `git checkout HEAD~5` | Going back to a few commits earlier by specifying the number of moves from HEAD to previous commits |
+| `git checkout HEAD [file-name]` | Reverting the current changes of a file to the last commit made <br /> Discard working directory changes |
+| `git checkout HEAD .` | When changes are made to several files in the working directory, but we don't want those changes to be applied, we use this command to discard all the changes <br /> Discarding all changes in the working directory |
 | `` |  |
 | `` |  |
 <br />
