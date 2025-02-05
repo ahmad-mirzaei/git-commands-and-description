@@ -55,7 +55,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git status -s` | View the summary of the current project file status |
 <br />
 
-👈[previous](#git-init) | [next](#git-add)👉 |  &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-init) | [next](#git-add)👇 &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -71,7 +71,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git add *.AnExtension` -> `git add *.css` | it takes all of the files with the selected extension to the `staging area` |
 <br />
 
-👈[previous](#git-status) | [next](#git-rm)👉 | &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list) 
+👈[previous](#git-status) | [next](#git-rm)👇 &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list) 
 
 ---
 
