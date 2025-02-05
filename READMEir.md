@@ -292,6 +292,8 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git checkout [hash-commit] [file-name]` |  برگرداندن تغییرات یک فایل بخصوص به یک کامیت با هش  کد آن کامیت  |
 | `git checkout HEAD~[number]` -> `git checkout HEAD~5` | برگشتن به چند کامیت قبل تر با وارد کردن تعداد حرکت از هد به کامیت های پایین تر |
 | `git checkout HEAD [file-name]` | بازگرداندن تغییرات فعلی فایل، به آخرین کامیت زده شده <br /> discard working directory changes |
+| `git checkout HEAD .` | زمانی که در ورکینگ دایرکتوری روی چند فایل تغییرات ایجاد کرده ایم ولی نمی خواهیم که آن تغییرات اعمال  شوند، از این دستور استفاده می کنیم که در این حالت، همه ی تغییرات را دیسکارد کرده ایم <br /> Discarding all changes in the working directory|
+| `` |  |
 | `` |  |
 <br />
 
