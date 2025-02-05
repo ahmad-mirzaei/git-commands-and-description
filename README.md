@@ -291,7 +291,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git checkout HEAD~[number]` -> `git checkout HEAD~5` | Going back to a few commits earlier by specifying the number of moves from HEAD to previous commits |
 | `git checkout HEAD [file-name]` | Reverting the current changes of a file to the last commit made <br /> Discard working directory changes |
 | `git checkout HEAD .` | When changes are made to several files in the working directory, but we don't want those changes to be applied, we use this command to discard all the changes <br /> Discarding all changes in the working directory |
-| `` |  |
+| `git checkout -- .` | Discarding all changes in the working directory and reverting it to the state of the last commit |
 | `` |  |
 <br />
 
