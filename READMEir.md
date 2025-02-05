@@ -22,7 +22,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | 2 | [Satus](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
 | 3 | [Add](#git-add) | 13 | [Stash](#git-stash) | 23 |  |
 | 4 | [Rm](#git-rm) | 14 | [Diff](#git-diff) | 24 |  |
-| 5 | [Commit](#git-commit) | 15 | `...در حال بروز رسانی` | 25 |  |
+| 5 | [Commit](#git-commit) | 15 | [Checkout](#git-checkout) | 25 |  |
 | 6 | [Tag](#git-tag) | 16 |  | 26 |  |
 | 7 | [Log](#git-log) | 17 |  | 27 |  |
 | 8 | [Blame](#git-blame) | 18 |  | 28 |  |
@@ -278,6 +278,22 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <br />
 
 [برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-stash)👈 
+
+---
+
+<!-- git checkout -->
+## <a id="git-checkout"></a>
+![git-checkout](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/168ba498fb4fe7ff88a4d5cfc6dd530e7fdea94d/images/git-checkout.png)
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `git checkout [hash-commit]` | زمانی که بخواهیم تغییرات پروژه را به یک کامیت در گذشته ببریم از این دستور استفاده می شود که در این صورت می گوییم **هد دیتچ یا جابجا** شده است |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [مبحث قبلی](#git-diff)👈 
 
 ---
 
