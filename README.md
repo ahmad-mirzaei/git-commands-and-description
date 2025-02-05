@@ -55,7 +55,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git status -s` | View the summary of the current project file status |
 <br />
 
-👈[previous topic](#git-init) &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-init) &nbsp;&nbsp;&nbsp; 👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -71,7 +71,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git add *.AnExtension` -> `git add *.css` | it takes all of the files with the selected extension to the `staging area` |
 <br />
 
-👈[previous topic](#git-status) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list) 
+👈[previous](#git-status) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list) 
 
 ---
 
@@ -88,7 +88,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git rm -rf --cached .` | it tkes all the files from `the local repository` to `working directory` |
 <br />
 
-👈[previous topic](#git-add) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-add) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -104,7 +104,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | it adds the last working directory changes to the last commit |
 <br />
 
-👈[previous topic](#git-rm) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-rm) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -123,7 +123,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` | Searching in tags |
 <br />
 
-👈[previous topic](#git-commit) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-commit) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -144,7 +144,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git log --author="user-name"` | it returns the commits of the selected author or user along with the date and time of their insertion |
 <br />
 
-👈[previous topic](#git-tag) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-tag) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -160,7 +160,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git blame -L [start-line],[end-line] [file-name]` | It is similar to the previous command with a slight rearrangement of the instructions |
 <br />
 
-👈[previous topic](#git-log) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-log) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -177,7 +177,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git show [tag name]` | Viewing the changes within each tag |
 <br />
 
-👈[previous topic](#git-blame) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-blame) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -196,7 +196,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git config user.name` or git `config user.email` | Viewing the username or email that we have selected for a specific project |
 <br />
 
-👈[previous topic](#git-show) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-show) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -217,7 +217,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git branch -m [new-name]` or `git branch -m [branch-name] [new-name]` | Renaming the desired branch. The second method is used when, for example, we are on branch A and want to rename branch B. In this case, there's no need to switch to branch B |
 <br />
 
-👈[previous topic](#git-config) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-config) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -231,7 +231,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git merge [source-branch] [target-branch]` | Merging without Switching to the Main Branch |
 <br />
 
-👈[previous topic](#git-branch) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-branch) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -253,7 +253,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git stash clear` | Delete all stashes. |
 <br />
 
-👈[previous topic](#git-merge) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-merge) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -273,7 +273,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git diff HEAD^ HEAD` | Displaying the differences between the latest commit and the previous commit |
 <br />
 
-👈[previous topic](#git-stash) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-stash) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
@@ -295,7 +295,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git checkout -b [new-branch-name]` | Creating a branch and switching to it |
 <br />
 
-👈[previous topic](#git-diff) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
+👈[previous](#git-diff) &nbsp;&nbsp;&nbsp;👆[list of commands](#go-to-the-command-list)
 
 ---
 
