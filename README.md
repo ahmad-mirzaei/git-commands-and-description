@@ -35,6 +35,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
+| `git -v` or `git --version` | Check the installed version of Git |
 | `git init` | introducing the project to Git or initializing it |
 | `git` | observe git commands |
 <br />
