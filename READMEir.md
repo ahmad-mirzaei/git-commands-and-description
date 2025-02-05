@@ -291,6 +291,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git switch [main-branch]` | برگرداندن تغییرات به حالت قبل از اجرای دستور بالا |
 | `git checkout [hash-commit] [file-name]` |  برگرداندن تغییرات یک فایل بخصوص به یک کامیت با هش  کد آن کامیت  |
 | `git checkout HEAD~[number]` -> `git checkout HEAD~5` | برگشتن به چند کامیت قبل تر با وارد کردن تعداد حرکت از هد به کامیت های پایین تر |
+| `git checkout HEAD [file-name]` | بازگرداندن تغییرات فعلی فایل، به آخرین کامیت زده شده <br /> discard working directory changes |
 | `` |  |
 <br />
 
