@@ -286,7 +286,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git checkout [branch-name]` | You switch to the branch you have specified |
 | `git switch [branch-name]` | You switch to the branch you have specified |
 | `git checkout [hash-commit]` | When we want to bring the changes of the project to a specific commit in the past, we use this command. In this case, we say the `HEAD is detached` |
-| `` |  |
+| `git checkout -- [file-name]` | This command cancels the changes made to the files in the working directory and restores them to the last commit state |
 | `` |  |
 | `` |  |
 | `` |  |
