@@ -320,4 +320,21 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
+<!-- git clean -->
+## <a id="git-clean"></a>
+![git-clean]https://github.com/ahmad-mirzaei/git-commands-and-description/blob/d5904c7c8fd3305b856323ada458be9ebe993811/images/git-clean.png)
+
+| توضیحات | دستورات | 
+|-----|-----:|
+|  |  |
+|  |  |
+<br />
+
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-restore)👈 
+
+---
+
 ![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
+
+
+
