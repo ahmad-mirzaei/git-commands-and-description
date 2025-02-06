@@ -313,8 +313,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git restore --staged [file-name]` | زمانی که یک فایل جدید ساخته ایم و به مرحله ی استیجینگ برده ایم، با اجرای این دستور به حالت **آنترک** در می آید <br /> `untracked` |
 | `git restore --source [hash-commit] [file-name] ` | این دستور شبیه دستور زیر است <br />  git checkout [hash-commit] [file-name] <br /> ولی با این تفاوت که، **هد** جابجا یا **دیتچ** نمی شود. یعنی داریم میگوییم که فایل مورد نظر را برگردان به فلان کد هش یا سورس  مورد نظر|
 | `git restore --source HEAD python.py` | برگرداندن تغییرات به **آخرین کامیت یا هد**  |
-| `` |  |
-| `` |  |
+| `git restore --source HEAD~5 [file-name]` | بردن هد به پنج کامیت قبل (تغییرات پروژه را به 5 کامیت قبل بر می گرداند) |
 <br />
 
 👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-checkout)👈 
