@@ -303,4 +303,19 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
+<!-- git checkout -->
+## <a id="git-checkout"></a>
+![git-checkout](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/a06c7e6cef5de9b7ea8f69c03fe4c42ed1ebb29a/images/git-restore.png)
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `git restore [file-name]` | زمانی که در ورکینگ دایرکتوری  یک فایلی تغییراتی ایجاد میکنیم یا به اصطلاح مادیفای می کنیم، با اجرای این دستور، تغییرات دیسکارد می شوند یا تغییرات بر می گردند به آخرین کامیت یا هد |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+
+---
+
 ![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
