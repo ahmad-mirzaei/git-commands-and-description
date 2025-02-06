@@ -42,7 +42,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git` or `git help` | نمایش راهنمای کلی گیت |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆
+👆[برو به فهرست](#go-to-the-command-list)
 
 ---
 
@@ -57,7 +57,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git status -s` | مشاهده ی موقعیت فعلی فایل های پروژه به صورت خلاصه شده |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#create-empty-repository)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#create-empty-repository)👈 
 
 ---
 
@@ -73,7 +73,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git add *.AnExtension` -> `git add *.css` |[staging area] تمامی فایل هایی که پسوند مورد نظر را داشته باشند را می برد به مرحله ی  |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-status)👈  
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-status)👈  
 
 --- 
 
@@ -90,7 +90,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rm -rf --cached .` | [working directory] تمامی فایل ها را از `ریپوزیرتوری لوکال` می برد به مرحله ی  |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-add)👈
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-add)👈
 
 --- 
 
@@ -106,7 +106,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | آخرین تغییرات لوکال یا `working directory` را به آخرین کامیت اضافه می کند  |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-rm)👈
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-rm)👈
 
 --- 
 
@@ -125,7 +125,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git tag -l '13.*'` - `git tag -l '*.0'` - `git tag -l '*.1.*'` | برای سرچ در تگ ها استفاده می کنیم که در مورد اول گفته ایم تگهایی که ابتدای آنها با فلان مشخصات شروع می شود و بعد از آن هر چیزی باشد در مورد دوم گفته ایم تگ هایی را بیاور که آخر آنها صفر داشته باشد و قبل از آن هر چیزی باشد و در مورد سوم گفته ایم که تگ هایی را بیاور عدد وصط آنها یک باشد و قبل و بعد آن هر چیزی باشد |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-commit)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-commit)👈 
 
 --- 
 
@@ -148,7 +148,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git log --author="user-name"` | کامیت های نویسنده یا یوزر مورد نظر به همراه تاریخ و ساعت درج آنها را بر می گرداند  |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-tag)👈  
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-tag)👈  
 
 --- 
 
@@ -164,7 +164,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git blame -L start-line,end-line [file-name]` | شبیه دستور قبلیست با کمی جابجایی در دستورات |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-log)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-log)👈 
 
 ---
 
@@ -181,7 +181,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git show [tag name]` | برای مشاهده ی تغییرات درون هر تگ استفاده می کنیم |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-blame)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-blame)👈 
 
 ---
 
@@ -200,7 +200,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git config user.name` or `git config user.email` | مشاهده ی نام یا ایمیل کاربری که برای یک پروژه انتخاب کرده ایم |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-show)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-show)👈 
 
 ---
 
@@ -221,7 +221,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git branch -m [new-name]` or `git branch -m [branch-name] [new-name]` | تغییر نام برنچ مورد نظر <br /> از روش دوم زمانی استفاده می شود که در یک برنچ دیگر باشیم و بخواهیم نام یک برنچ دیگر را تغییر دهیم که دیگر نیازی به سوئیچ کردن در برنچی که میخواهیم نام آن را تغییر دهیم، نیست |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-config)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-config)👈 
 
 ---
 
@@ -235,7 +235,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git merge [source-branch] [target-branch]` | از این دستور زمانی استفاده می کنیم که بخواهیم بدون سوئیچ کردن به شاخه ی اصلی عملیات مرج را انجام دهیم |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-branch)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-branch)👈 
 
 ---
 
@@ -257,7 +257,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git stash clear` | حذف تمامی استش ها به صورت یکجا |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-merge)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-merge)👈 
 
 ---
 
@@ -277,7 +277,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git diff HEAD^ HEAD` | مشاهده ی تفاوت بین نسخه ی فعلی و آخرین نسخه |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-stash)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-stash)👈 
 
 ---
 
@@ -299,7 +299,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git checkout -b [new-branch-name]` | ایجاد یک برنچ و سوئیچ کردن در آن |
 <br />
 
-[برو به فهرست](#go-to-the-command-list)👆 &nbsp;&nbsp;&nbsp; [قبلی](#git-diff)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-diff)👈 
 
 ---
 
