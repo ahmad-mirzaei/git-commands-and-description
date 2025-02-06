@@ -23,7 +23,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | 3 | [Add](#git-add) | 13 | [Stash](#git-stash) | 23 |  |
 | 4 | [Rm](#git-rm) | 14 | [Diff](#git-diff) | 24 |  |
 | 5 | [Commit](#git-commit) | 15 | [Checkout](#git-checkout) | 25 |  |
-| 6 | [Tag](#git-tag) | 16 |  | 26 |  |
+| 6 | [Tag](#git-tag) | 16 | [Restore](#git-restore) | 26 |  |
 | 7 | [Log](#git-log) | 17 |  | 27 |  |
 | 8 | [Blame](#git-blame) | 18 |  | 28 |  |
 | 9 | [Show](#git-show) | 19 |  | 29 |  |
@@ -303,9 +303,9 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<!-- git checkout -->
-## <a id="git-checkout"></a>
-![git-checkout](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/a06c7e6cef5de9b7ea8f69c03fe4c42ed1ebb29a/images/git-restore.png)
+<!-- git restore -->
+## <a id="git-restore"></a>
+![git-restore](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/a06c7e6cef5de9b7ea8f69c03fe4c42ed1ebb29a/images/git-restore.png)
 
 | توضیحات | دستورات | 
 |-----|-----:|
@@ -315,6 +315,9 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `` |  |
 | `` |  |
 | `` |  |
+<br />
+
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-checkout)👈 
 
 ---
 
