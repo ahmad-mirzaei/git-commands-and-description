@@ -25,7 +25,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | 5 | [Commit](#git-commit) | 15 | [Checkout](#git-checkout) | 25 |  |
 | 6 | [Tag](#git-tag) | 16 | [Restore](#git-restore) | 26 |  |
 | 7 | [Log](#git-log) | 17 | [Clean](#git-clean) | 27 |  |
-| 8 | [Blame](#git-blame) | 18 |  | 28 |  |
+| 8 | [Blame](#git-blame) | 18 | [reset](#git-reset) | 28 |  |
 | 9 | [Show](#git-show) | 19 |  | 29 |  |
 | 10 | [Config](#git-config) | 20 |  | 30 |  |
 
@@ -331,6 +331,21 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <br />
 
 👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-restore)👈 
+
+---
+
+<!-- git reset -->
+## <a id="git-reset"></a>
+![git-reset](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/4e57ac4c22cc2883a89145e68793fff34cc5ed42/images/git-reset.png)
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-clean)👈 
 
 ---
 
