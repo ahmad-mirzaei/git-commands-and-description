@@ -322,7 +322,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 <!-- git clean -->
 ## <a id="git-clean"></a>
-![git-clean]https://github.com/ahmad-mirzaei/git-commands-and-description/blob/d5904c7c8fd3305b856323ada458be9ebe993811/images/git-clean.png)
+![git-clean](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/d5904c7c8fd3305b856323ada458be9ebe993811/images/git-clean.png)
 
 | توضیحات | دستورات | 
 |-----|-----:|
