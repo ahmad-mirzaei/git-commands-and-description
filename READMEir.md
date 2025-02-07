@@ -362,6 +362,22 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
+<!-- git revert -->
+## <a id="git-revert"></a>
+![git-revert](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/4c0c7fe81e7bc86124b703e4913e58d05be31f48/images/git-bisect.png)
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-revert)👈 
+
+---
+
 ![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
 
 
