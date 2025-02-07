@@ -27,7 +27,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | 7 | [Log](#git-log) | 17 | [Clean](#git-clean) | 27 |  |
 | 8 | [Blame](#git-blame) | 18 | [Reset](#git-reset) | 28 |  |
 | 9 | [Show](#git-show) | 19 | [Revert](#git-revert) | 29 |  |
-| 10 | [Config](#git-config) | 20 |  | 30 |  |
+| 10 | [Config](#git-config) | 20 | [Bisect](#git-bisect) | 30 |  |
 
 ---
 
@@ -362,9 +362,9 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-<!-- git revert -->
-## <a id="git-revert"></a>
-![git-revert](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/4c0c7fe81e7bc86124b703e4913e58d05be31f48/images/git-bisect.png)
+<!-- git bisect -->
+## <a id="git-bisect"></a>
+![git-bisect](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/4c0c7fe81e7bc86124b703e4913e58d05be31f48/images/git-bisect.png)
 
 | توضیحات | دستورات | 
 |-----|-----:|
