@@ -25,8 +25,8 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | 5 | [Commit](#git-commit) | 15 | [Checkout](#git-checkout) | 25 |  |
 | 6 | [Tag](#git-tag) | 16 | [Restore](#git-restore) | 26 |  |
 | 7 | [Log](#git-log) | 17 | [Clean](#git-clean) | 27 |  |
-| 8 | [Blame](#git-blame) | 18 | [reset](#git-reset) | 28 |  |
-| 9 | [Show](#git-show) | 19 |  | 29 |  |
+| 8 | [Blame](#git-blame) | 18 | [Reset](#git-reset) | 28 |  |
+| 9 | [Show](#git-show) | 19 | [Revert](#git-revert) | 29 |  |
 | 10 | [Config](#git-config) | 20 |  | 30 |  |
 
 ---
