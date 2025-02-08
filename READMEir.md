@@ -248,12 +248,12 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git rebase [feature-branch]` | الحاق برنچ فرعی به برنچ اصلی <br /> برای الحاق برنچ فرعی به برنچ اصلی، باید درون برنچ اصلی باشیم و سپس از این دستور استفاده کنیم |
 <br />
 
-###  ریبیس و مریج(الحاق)
+###  ریبیس و مرج(الحاق)
 
 ![merge-vs-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/7d95698d24dcf6e1f25b683ecd70df55be4b84cf/images/mergevsrebase.png)
 
 | ویژگی | Rebase | Merge | 
-|-----|-----:|
+|:-----:|:-----:|:-----:|
 | ❌ | ✔️ | تغییر تاریخچه |
 |  |  |  |
 |  |  |  |
