@@ -252,7 +252,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ![merge-vs-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/7d95698d24dcf6e1f25b683ecd70df55be4b84cf/images/mergevsrebase.png)
 
-| ویژگی | Rebase | Merge | 
+| Merge | Rebase | ویژگی | 
 |:-----:|:-----:|:-----:|
 | ❌ | ✔️ | تغییر تاریخچه |
 |  |  |  |
