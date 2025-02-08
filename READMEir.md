@@ -239,6 +239,19 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
+<!-- git rebase -->
+## <a id="git-rebase"></a>
+![git-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/267fd87fe271e04ff26ba0244b6503ef9a3ec07b/images/git-rebase.png)
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `` |  |
+<br />
+
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-merge)👈 
+
+---
+
 <!-- git stash -->
 ## <a id="git-stash"></a>
 ![git-stash](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/b2073a1db16d850b1ba9047c91852903b9134911/images/git-stash.png)
@@ -257,7 +270,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git stash clear` | حذف تمامی استش ها به صورت یکجا |
 <br />
 
-👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-merge)👈 
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-rebase)👈 
 
 ---
 
