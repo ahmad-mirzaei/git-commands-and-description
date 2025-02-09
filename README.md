@@ -299,4 +299,19 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+
+<!-- git restore -->
+## <a id="git-restore"></a>
+![git-restore](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/4ce6027bd4de9c45b77db08b616082a855f17d76/images/git-restore.png)
+
+| commands | descriptions |
+|-----|-----|
+| `` |  |
+| `` |  |
+<br />
+
+👈[previous](#git-checkout) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
