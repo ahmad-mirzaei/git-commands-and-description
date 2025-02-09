@@ -20,9 +20,9 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | 2 | [Status](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
 | 3 | [Add](#git-add) | 13 | [Stash](#git-stash) | 23 |  |
 | 4 | [Rm](#git-rm) | 14 | [Diff](#git-diff) | 24 |  |
-| 5 | [Commit](#git-commit) | 15 | [Checkout ](#git-checkout) | 25 |  |
-| 6 | [Tag](#git-tag) | 16 | `Updating...` | 26 |  |
-| 7 | [Log](#git-log) | 17 |  | 27 |  |
+| 5 | [Commit](#git-commit) | 15 | [Checkout](#git-checkout) | 25 |  |
+| 6 | [Tag](#git-tag) | 16 | [Restore](#git-restore) | 26 |  |
+| 7 | [Log](#git-log) | 17 | `Updating...` | 27 |  |
 | 8 | [Blame](#git-blame) | 18 |  | 28 |  |
 | 9 | [Show](#git-show) | 19 |  | 29 |  |
 | 10 | [Config](#git-config) | 20 |  | 30 |  |
