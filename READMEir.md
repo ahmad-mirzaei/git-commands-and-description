@@ -17,7 +17,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 ### **فهرست دستورات**
 
 | ردیف | عنوان | ردیف | عنوان | ردیف | عنوان | ردیف | عنوان |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:||:-----:|:-----:|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1 | [Init](#git-init) | 7 | [Log](#git-log) | 13 | [Rebase](#git-rebase) | 19 | [Reset](#git-reset) |
 | 2 | [Satus](#git-status) | 8 |  [Blame](#git-blame) | 14 | [Stash](#git-stash) | 20 | [Revert](#git-revert) |
 | 3 | [Add](#git-add) | 9 | [Show](#git-show) | 15 | [Diff](#git-diff) | 21 | [Bisect](#git-bisect) |
