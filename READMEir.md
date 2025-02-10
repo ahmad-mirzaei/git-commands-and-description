@@ -96,7 +96,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 | دستورات | توضیحات |
 |-----|-----:|
-| `git commit -m [message]` | فایل های پروژه که در مرحله ی استیجینگ قرار دارند را با یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد (From staging area to HEAD or repositories) |
+| `git commit -m [message]` | فایل های پروژه که در مرحله ی استیجینگ قرار دارند را با یک پیغام مرتبط به مرحله ی نهایی یا هد، مخزن یا ریپوزیتوری می برد<br /> (From staging area to HEAD or repositories) |
 | `git commit -am [message]` or `git commit -a -m [message]` | **فایل هایی که از قبل در پروژه ساخته شده اند** و تغییر پیدا می کنند را مستقیماً به مرحله ی ریپوزیتوری یا هد می برد <br /> new file --> git add "file name" --> git commit -m "message" <br /> modified file --> git commit -am "message" --> git commit -a -m "message" |
 | `git commit --amend -m [message]` | تغییر نام آخرین کامیت |
 | `git commit --amend -am [message]` or `git commit --amend -a -m [message]` | آخرین تغییرات لوکال یا ورکینگ دایرکتوری را به آخرین کامیت اضافه می کند  |
