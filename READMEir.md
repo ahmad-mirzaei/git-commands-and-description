@@ -19,7 +19,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | ردیف | عنوان | ردیف | عنوان | ردیف | عنوان |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1 | [Init](#git-init) | 11 | [Branch](#git-branch) | 21 | [Bisect](#git-bisect) |
-| 2 | [Satus](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
+| 2 | [Satus](#git-status) | 12 | [Merge](#git-merge) | 22 | [Upload Project](#upload-project) |
 | 3 | [Add](#git-add) | 13 | [Rebase](#git-rebase) | 23 |  |
 | 4 | [Rm](#git-rm) | 14 | [Stash](#git-stash) | 24 |  |
 | 5 | [Commit](#git-commit) | 15 | [Diff](#git-diff) | 25 |  |
@@ -410,6 +410,21 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <br />
 
 👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-revert)👈 
+
+---
+
+<!-- upload project -->
+## <a id="upload-project"></a>
+![upload-project]()
+
+| توضیحات | دستورات | 
+|-----|-----:|
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+👆[برو به فهرست](#go-to-the-command-list) &nbsp; | &nbsp; [قبلی](#git-bisect)👈 
 
 ---
 
