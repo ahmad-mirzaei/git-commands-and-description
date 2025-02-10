@@ -422,6 +422,10 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | `git clone [https-repository-link]` | اضافه کردن یک کپی از یک ریپوزیتوری به لوکال ما |
 | `echo "# git-review" >> README.md` <br /> `git init` <br /> `git add README.md` <br /> `git commit -m "first commit"` <br /> `git branch -M main` <br /> `git remote add origin [repository-link]` <br /> `git push -u origin main` | زمانی که میخواهیم از ابتدا یک پروژه را آغاز کرده و به گیت و گیت هاب اضافه کنیم، این مراحل باید سپری شوند |
 | `git remote add origin [repository-link]` <br /> `git branch -M main` <br /> `git push -u origin main` | زمانی که روی پروژه کار شده و به گیت هم اضافه شده و اقامات نهایی باقی مانده است |
+| `git remote` | با اجرای این دستور می توان فهمید که پروژه به کدام ریموت سرویس وصل است  |
+| `` |  |
+| `` |  |
+| `` |  |
 | `` |  |
 | `` |  |
 <br />
