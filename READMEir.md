@@ -437,7 +437,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
+<!-- ![updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif) -->
 
 
 
