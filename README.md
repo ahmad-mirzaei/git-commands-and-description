@@ -339,6 +339,9 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git restore [file-name]` | When we make changes to a file in the working directory, running this command reverts the changes to the last commit or HEAD, effectively discarding them |
+| `git restore --staged [file-name]` | When we create a new file and add it to the staging area, running this command will unstage it, returning it to an untracked state |
+| `` |  |
+| `` |  |
 | `` |  |
 <br />
 
