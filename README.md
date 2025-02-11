@@ -378,4 +378,17 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- git revert -->
+## <a id="git-revert"></a>
+![git-revert](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/04c5cfd16d1504c2889d1e2aaaa3649d4d85b366/images/git-revert.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git revert [hash-commit]` | This command is used when, for example, we have created a commit and later realize that it is not useful for the project. It allows us to remove all the code added in that commit and restore the code that was previously deleted. <br />**Important Note:** If we revert a commit that depends on another commit, we may encounter a conflict. To resolve this issue, we should use the reset command instead |
+<br />
+
+👈[previous](#git-reset) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
