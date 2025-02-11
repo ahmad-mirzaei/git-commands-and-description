@@ -241,6 +241,13 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git rebase [feature-branch] [main-branch]` | Merging a feature branch into the main branch without switching to the main branch |
 <br />
 
+### How rebasing and merging work in branch integration
+<br />
+
+![merge-vs-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/7d95698d24dcf6e1f25b683ecd70df55be4b84cf/images/mergevsrebase.png)
+
+
+
 👈[previous](#git-merge) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
 
 ---
