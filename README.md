@@ -418,6 +418,11 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | ``git remote add origin [repository-link]` <br /> `git branch -M main` <br /> `git push -u origin main`` | When the project has been worked on and added to Git, and only the final steps remain, these are the steps you need to follow |
 | `git remote` | This command helps to determine which remote service the project is connected to |
 | `git remote -v` | If we want more information about the remote, we use this command |
+| `git remote remove [remote-name]` | Removing the specified remote |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
 | `` |  |
 | `` |  |
 <br />
