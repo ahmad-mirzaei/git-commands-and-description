@@ -356,10 +356,10 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git clean -h` | `clean` View command help |
-| `` |  |
+| `git clean -f -d [file-name]` | Deleting a file that has been created but has not yet been staged or committed |
 <br />
 
-👈[previous](#git-checkout) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+👈[previous](#git-restore) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
 
 ---
 
