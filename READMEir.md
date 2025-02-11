@@ -249,6 +249,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 <br />
 
 ![merge-vs-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/7d95698d24dcf6e1f25b683ecd70df55be4b84cf/images/mergevsrebase.png)
+<br /> 
 
 ### مقایسه ی ریبیس و مرج
 <br />
