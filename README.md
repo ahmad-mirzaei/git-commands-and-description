@@ -246,7 +246,21 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ![merge-vs-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/7d95698d24dcf6e1f25b683ecd70df55be4b84cf/images/mergevsrebase.png)
 
+### Comparison of rebase and merge
+<br />  
 
+| Merge | Rebase | Feature |  
+|:-----:|:-----:|--------:|  
+| ❌ | ✔️ | Modifies history |  
+| ✔️ | ✔️ | Merges branches |  
+| (merge commit) ✔️ | ❌ | Additional commits |  
+| May make branch history complex ❌ | ✔️ | Keeps history clean |  
+| Safer ✔️ | Risky (requires caution) 🚨 | Team collaboration |  
+
+🟢 **When to use Rebase:** When you want a clean history without extra commits. <br />
+🟢 **When to use Merge:** When working in a team environment and you don't want to rewrite history. 
+<br />
+<br />
 
 👈[previous](#git-merge) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
 
