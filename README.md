@@ -407,4 +407,23 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- upload project -->
+## <a id="upload-project"></a>
+![upload-project](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/2b499a33c44b5d1c4c5538de4a724c612b6958ef/images/github-upload.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git clone [https-repository-link]` | Adding a copy of a repository to our local machine. |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+| `` |  |
+<br />
+
+👈[previous](#git-bisect) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
