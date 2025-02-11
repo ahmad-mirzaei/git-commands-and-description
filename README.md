@@ -16,12 +16,12 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | Row | Title | Row | Title | Row | Title | Row | Title |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 | [Init](#git-init) | 7 | [Log](#git-log) | 13 | [Rebase](#git-rebase) | 19 |  |
+| 1 | [Init](#git-init) | 7 | [Log](#git-log) | 13 | [Rebase](#git-rebase) | 19 | [Reset](#git-reset) |
 | 2 | [Status](#git-status) | 8 | [Blame](#git-blame) | 14 | [Stash](#git-stash) | 20 |  | 
 | 3 | [Add](#git-add) | 9 | [Show](#git-show) | 15 | [Diff](#git-diff) | 21 |  |
 | 4 | [Rm](#git-rm) | 10 | [Config](#git-config) | 16 | [Checkout](#git-checkout) | 22 |  |
 | 5 | [Commit](#git-commit) | 11 | [Branch](#git-branch) | 17 | [Restore](#git-restore) |  |  |
-| 6 | [Tag](#git-tag) | 12 | [Merge](#git-merge) | 18 |  |  |  | 
+| 6 | [Tag](#git-tag) | 12 | [Merge](#git-merge) | 18 | [Clean](#git-clean) |  |  | 
 
 ---
 
