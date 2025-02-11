@@ -421,7 +421,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git remote remove [remote-name]` | Removing the specified remote |
 | `git push [remote] [branch]` | The action of uploading the project's code to GitHub is called "push." To push the project to GitHub, we specify the remote name we have selected and the branch name to push the changes from that branch to the chosen remote |
 | `git push -u origin [main-branch]` | By running this command, the remote and branch are set for us, so there is no need to write them again to upload changes to GitHub. For future uploads, you can simply use the command: `git push` |
-| `` |  |
+| `git pull origin [main-branch]` | Bringing changes from the GitHub repository to the local project |
 | `` |  |
 | `` |  |
 | `` |  |
