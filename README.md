@@ -14,18 +14,14 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ### **List of commands**
 
-| Row | Title | Row | Title | Row | Title |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 | [Init](#git-init) | 11 | [Branch](#git-branch) | 21 |  |
-| 2 | [Status](#git-status) | 12 | [Merge](#git-merge) | 22 |  |
-| 3 | [Add](#git-add) | 13 | [Stash](#git-stash) | 23 |  |
-| 4 | [Rm](#git-rm) | 14 | [Diff](#git-diff) | 24 |  |
-| 5 | [Commit](#git-commit) | 15 | [Checkout](#git-checkout) | 25 |  |
-| 6 | [Tag](#git-tag) | 16 | [Restore](#git-restore) | 26 |  |
-| 7 | [Log](#git-log) | 17 |  | 27 |  |
-| 8 | [Blame](#git-blame) | 18 |  | 28 |  |
-| 9 | [Show](#git-show) | 19 |  | 29 |  |
-| 10 | [Config](#git-config) | 20 | `Updating...` | 30 |  |
+| Row | Title | Row | Title | Row | Title | Row | Title |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1 | [Init](#git-init) | 7 | [Log](#git-log) | 13 | [Rebase](#git-rebase) | 19 |  |
+| 2 | [Status](#git-status) | 8 | [Blame](#git-blame) | 14 | [Stash](#git-stash) | 20 |  | 
+| 3 | [Add](#git-add) | 9 | [Show](#git-show) | 15 | [Diff](#git-diff) | 21 |  |
+| 4 | [Rm](#git-rm) | 10 | [Config](#git-config) | 16 | [Checkout](#git-checkout) | 22 |  |
+| 5 | [Commit](#git-commit) | 11 | [Branch](#git-branch) | 17 | [Restore](#git-restore) |  |  |
+| 6 | [Tag](#git-tag) | 12 | [Merge](#git-merge) | 18 |  |  |  | 
 
 ---
 
@@ -235,6 +231,20 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- git rebase -->
+## <a id="git-rebase"></a>
+![git-rebase](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/267fd87fe271e04ff26ba0244b6503ef9a3ec07b/images/git-rebase.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git rebase [feature-branch]` | Merging a feature branch into the main branch <br /> To merge a feature branch into the main branch, you must first switch to the main branch and then use this command |
+|  |  |
+<br />
+
+👈[previous](#git-merge) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+
+---
+
 <!-- git stash -->
 ## <a id="git-stash"></a>
 ![git-stash](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/b2073a1db16d850b1ba9047c91852903b9134911/images/git-stash.png)
@@ -253,7 +263,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git stash clear` | Delete all stashes. |
 <br />
 
-👈[previous](#git-merge) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+👈[previous](#git-rebase) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
 
 ---
 

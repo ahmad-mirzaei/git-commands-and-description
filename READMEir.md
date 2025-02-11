@@ -19,7 +19,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 | ردیف | عنوان | ردیف | عنوان | ردیف | عنوان | ردیف | عنوان |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1 | [Init](#git-init) | 7 | [Log](#git-log) | 13 | [Rebase](#git-rebase) | 19 | [Reset](#git-reset) |
-| 2 | [Satus](#git-status) | 8 |  [Blame](#git-blame) | 14 | [Stash](#git-stash) | 20 | [Revert](#git-revert) |
+| 2 | [Status](#git-status) | 8 |  [Blame](#git-blame) | 14 | [Stash](#git-stash) | 20 | [Revert](#git-revert) |
 | 3 | [Add](#git-add) | 9 | [Show](#git-show) | 15 | [Diff](#git-diff) | 21 | [Bisect](#git-bisect) |
 | 4 | [Rm](#git-rm) | 10 | [Config](#git-config) | 16 | [Checkout](#git-checkout) | 22 | [Upload Project](#upload-project) | 
 | 5 | [Commit](#git-commit) | 11 | [Branch](#git-branch) | 17 | [Restore](#git-restore) |  |  |
