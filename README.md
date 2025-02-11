@@ -428,7 +428,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 <br />
 
 👈[previous](#git-bisect) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+<br />
 
 ---
 
-![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)# git-review
+<!-- ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)# git-review -->
