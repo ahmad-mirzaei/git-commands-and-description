@@ -349,4 +349,18 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- git clean -->
+## <a id="git-clean"></a>
+![git-clean](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/d5904c7c8fd3305b856323ada458be9ebe993811/images/git-clean.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git clean -h` | `clean` View command help |
+| `` |  |
+<br />
+
+👈[previous](#git-checkout) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
