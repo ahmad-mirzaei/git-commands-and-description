@@ -363,4 +363,19 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
+<!-- git reset -->
+## <a id="git-reset"></a>
+![git-reset](https://github.com/ahmad-mirzaei/git-commands-and-description/blob/4e57ac4c22cc2883a89145e68793fff34cc5ed42/images/git-reset.png)
+
+| commands | descriptions |
+|-----|-----|
+| `git reset --soft [hash-commit]` | By running this command, if the specified commit hash corresponds to four commits below, we go back to four commits earlier, and all the commits above it are removed from the repository. However, the files and changes made to the project are not deleted; instead, they are moved back to the staging area, allowing us to decide on them again |
+| `` |  |
+| `` |  |
+<br />
+
+👈[previous](#git-restore) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+
+---
+
 ![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
