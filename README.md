@@ -397,7 +397,10 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
-| `` | |
+| `git bisect start` | When the project has many commits and we encounter a bug, we use this command to find and fix the bug. This command performs a binary search through the commits to locate the problematic commit |
+| `` |  |
+| `` |  |
+| `` |  |
 <br />
 
 👈[previous](#git-revert) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
