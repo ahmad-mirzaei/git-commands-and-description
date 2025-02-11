@@ -419,7 +419,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git remote` | This command helps to determine which remote service the project is connected to |
 | `git remote -v` | If we want more information about the remote, we use this command |
 | `git remote remove [remote-name]` | Removing the specified remote |
-| `` |  |
+| `git push [remote] [branch]` | The action of uploading the project's code to GitHub is called "push." To push the project to GitHub, we specify the remote name we have selected and the branch name to push the changes from that branch to the chosen remote |
 | `` |  |
 | `` |  |
 | `` |  |
