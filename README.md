@@ -238,7 +238,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git rebase [feature-branch]` | Merging a feature branch into the main branch <br /> To merge a feature branch into the main branch, you must first switch to the main branch and then use this command |
-|  |  |
+| `git rebase [feature-branch] [main-branch]` | Merging a feature branch into the main branch without switching to the main branch |
 <br />
 
 👈[previous](#git-merge) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
