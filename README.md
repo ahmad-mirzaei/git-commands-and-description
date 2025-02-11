@@ -398,7 +398,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | commands | descriptions |
 |-----|-----|
 | `git bisect start` | When the project has many commits and we encounter a bug, we use this command to find and fix the bug. This command performs a binary search through the commits to locate the problematic commit |
-| `` |  |
+| `git bisect good [hash-commit]` | To use binary search in commits, we first need to mark a commit where the bug did not exist. Then, we manage the search by marking commits as "good" or "bad" until we locate the commit that introduced the bug |
 | `` |  |
 | `` |  |
 <br />
