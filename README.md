@@ -341,7 +341,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git restore [file-name]` | When we make changes to a file in the working directory, running this command reverts the changes to the last commit or HEAD, effectively discarding them |
 | `git restore --staged [file-name]` | When we create a new file and add it to the staging area, running this command will unstage it, returning it to an untracked state |
 | `git restore --source [hash-commit] [file-name] ` | This command is similar to the following command: `git checkout [commit-hash] [file-name]`; However, the difference is that the HEAD is not moved or detached. Essentially, we are telling Git to revert the specified file to a particular commit hash or source |
-| `` |  |
+| `git restore --source HEAD [file-name]` | Reverting changes to the last commit or HEAD |
 | `` |  |
 <br />
 
