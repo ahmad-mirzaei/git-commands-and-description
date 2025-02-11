@@ -413,8 +413,8 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 | commands | descriptions |
 |-----|-----|
-| `git clone [https-repository-link]` | Adding a copy of a repository to our local machine. |
-| `` |  |
+| `git clone [https-repository-link]` | Adding a copy of a repository to our local machine |
+| `echo "# git-review" >> README.md` <br /> `git init` <br /> `git add README.md` <br /> `git commit -m "first commit"` <br /> `git branch -M main` <br /> `git remote add origin [repository-link]` <br /> `git push -u origin main` | When we want to start a project from scratch and add it to Git and GitHub, these steps must be followed |
 | `` |  |
 | `` |  |
 | `` |  |
@@ -426,4 +426,4 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
-![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)
+![Updating](https://github.com/ahmad-mirzaei/git-commands-and-explanations/blob/2c6daafcb71ea5808ce52360a5c333d34733048c/images/updating-coming-soon.gif)# git-review
