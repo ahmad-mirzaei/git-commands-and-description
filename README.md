@@ -371,10 +371,10 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |-----|-----|
 | `git reset --soft [hash-commit]` | By running this command, if the specified commit hash corresponds to four commits below, we go back to four commits earlier, and all the commits above it are removed from the repository. However, the files and changes made to the project are not deleted; instead, they are moved back to the staging area, allowing us to decide on them again |
 | `git reset [hash-commit]` or `git reset --mixed [hash-commit]` | It works similarly to the previous command, meaning it goes back to the previous commit and removes the commits above it from the repository. However, the difference is that if the changes are in the staging area, they are moved to the working directory, and if they are in the working directory, they become untracked |
-| `git reset --hard [hash-commit]` | The entire project is reset to the specified commit, including the working directory. This means all changes revert to the state of the chosen commit <br />Note: Untracked files are not removed by this command because Git does not recognize them. Therefore, no changes are applied to these files |
+| `git reset --hard [hash-commit]` | The entire project is reset to the specified commit, including the working directory. This means all changes revert to the state of the chosen commit <br /> **Note**: Untracked files are not removed by this command because Git does not recognize them. Therefore, no changes are applied to these files |
 <br />
 
-👈[previous](#git-restore) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
+👈[previous](#git-clean) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
 
 ---
 
