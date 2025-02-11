@@ -424,7 +424,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 | `git pull origin [main-branch]` | Bringing changes from the GitHub repository to the local project |
 | `git fetch [remote-name] [branch-name]` | When changes have been made by ourselves or colleagues on GitHub, and we want to review those changes before merging, we use this command. After running it, we won't see any specific output because the changes have gone to the remote branch. To view them, we use this command: `git branch -r` |
 | `git branch -r` | It is used to view remote branches |
-| `` |  |
+| `git switch -c [branch-name] origin/main` <br /> or <br /> `git checkout -b [branch-name] origin/main` | To view changes in a remote branch, you first need to create a new branch, observe the changes there, then merge it. Finally, after merging, delete the merged branch. For this, we will use the following command |
 <br />
 
 👈[previous](#git-bisect) &nbsp; | &nbsp; [list of commands](#go-to-the-command-list)👆
