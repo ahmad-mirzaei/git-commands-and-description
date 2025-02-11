@@ -415,7 +415,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 |-----|-----|
 | `git clone [https-repository-link]` | Adding a copy of a repository to our local machine |
 | `echo "# git-review" >> README.md` <br /> `git init` <br /> `git add README.md` <br /> `git commit -m "first commit"` <br /> `git branch -M main` <br /> `git remote add origin [repository-link]` <br /> `git push -u origin main` | When we want to start a project from scratch and add it to Git and GitHub, these steps must be followed |
-| `` |  |
+| ``git remote add origin [repository-link]` <br /> `git branch -M main` <br /> `git push -u origin main`` | When the project has been worked on and added to Git, and only the final steps remain, these are the steps you need to follow |
 | `` |  |
 | `` |  |
 | `` |  |
