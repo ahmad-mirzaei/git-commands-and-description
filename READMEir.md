@@ -81,8 +81,8 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 |-----|-----:|
 | `git rm [file name]` or `git rm -r [file name]` | فایل مورد نظر را از پروژه حذف می کند |
 | `git rm -- *.AnExtension` -> `git rm -- *.py` | تمامی فایل هایی که پسوند مورد نظر را داشته باشند از پروژه حذف می کند |
-| `git rm --cached --ignore-unmatch *.js` | تمام فایل‌های با پسوند .js را از مرحله‌ی Stage (Index) حذف می‌کند، اما فایل‌ها در Working Directory باقی می‌مانند. |
-| `git rm --cached [file name]` -> `git rm --cached .` | فایل مشخص‌ شده را از Stage (Index) حذف می‌کند، اما فایل را از Working Directory پاک نمی‌کند. برای متوقف کردن Track شدن فایل (مثلاً بعد از اضافه کردن به .gitignore) استفاده می‌شود. |
+| `git rm --cached --ignore-unmatch *.js` | تمام فایل های با پسوند .js را از مرحله ی stage حذف می کند، اما فایلها در working directory باقی می مانند. |
+| `git rm --cached [file name]` -> `git rm --cached .` |  |
 | `git rm -rf --cached .` | [working directory] تمامی فایل ها را از `ریپوزیتوری لوکال` می برد به مرحله ی  |
 <br />
 
