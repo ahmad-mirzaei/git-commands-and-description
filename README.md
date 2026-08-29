@@ -7,8 +7,7 @@ _[Git](https://git-scm.com/doc) commands are stored in this directory along with
 
 ---
 
-- ### **Translated versions**
-    - [Persian Version - فارسی](READMEir.md)
+> 🌐 Language: **English** | [فارسی](READMEir.md)
 
 ---
 
