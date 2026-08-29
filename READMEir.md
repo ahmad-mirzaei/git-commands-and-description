@@ -7,8 +7,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 
 ---
 
-- ### **ورژن های ترجمه شده**
-    - [English Version](README.md)
+> 🌐 Language: **فارسی** | [English](README.md)
 
 ---
 
