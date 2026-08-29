@@ -8,7 +8,7 @@ _دستورات [گیت](https://git-scm.com/doc) به همراه توضیحات
 ---
 
 - ### **ورژن های ترجمه شده**
-    - [Persian Version - فارسی](READMEir.md)
+    - [English Version](README.md)
 
 ---
 
